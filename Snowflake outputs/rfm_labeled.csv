@@ -1,0 +1,1591 @@
+CUSTOMER_ID,CUSTOMER_NAME,LAST_ORDER_DATE,FREQUENCY,MONETARY_VALUE,RECENCY,RECENCY_SCORE,FREQUENCY_SCORE,MONETARY_SCORE,RFM_TOTAL,SEGMENT
+JJ-15760,Joel Jenkins,2014-12-29,28,18103.64,2193,5,5,5,15,Champions
+MG-17875,Michael Grace,2014-12-26,33,14452.82,2196,5,5,5,15,Champions
+DK-12985,Darren Koutras,2014-12-30,35,14823.97,2192,5,5,5,15,Champions
+CL-12700,Craig Leslie,2014-12-23,31,17943.65,2199,5,5,5,15,Champions
+PK-19075,Pete Kriz,2014-12-23,29,17668.91,2199,5,5,5,15,Champions
+GD-14590,Giulietta Dortch,2014-12-26,29,18005,2196,5,5,5,15,Champions
+SE-20110,Sanjit Engle,2014-12-22,36,29532.63,2200,5,5,5,15,Champions
+DM-13345,Denise Monton,2014-12-29,27,17054.89,2193,5,5,5,15,Champions
+TZ-21445,Tom Zandusky,2014-12-23,28,14601.67,2199,5,5,5,15,Champions
+ZC-21910,Zuschuss Carroll,2014-12-28,37,28472.82,2194,5,5,5,15,Champions
+ML-17755,Max Ludwig,2014-12-30,28,14425.1,2192,5,5,5,15,Champions
+CL-12565,Clay Ludtke,2014-12-26,30,17008.14,2196,5,5,5,15,Champions
+AH-10075,Adam Hart,2014-12-29,34,18109.86,2193,5,5,5,15,Champions
+SV-20935,Susan Vittorini,2014-12-31,28,15197.69,2191,5,5,5,15,Champions
+ME-17320,Maria Etezadi,2014-12-26,30,24527.03,2196,5,5,5,15,Champions
+TS-21340,Toby Swindell,2014-12-23,31,16997.03,2199,5,5,5,15,Champions
+SP-20920,Susan Pistek,2014-12-25,28,28124.21,2197,5,5,5,15,Champions
+RF-19840,Roy Französisch,2014-12-25,31,15077.48,2197,5,5,5,15,Champions
+BS-11755,Bruce Stewart,2014-12-30,29,17557.46,2192,5,5,5,15,Champions
+GT-14710,Greg Tran,2014-12-23,30,34471.89,2199,5,5,5,15,Champions
+KB-16315,Karl Braun,2014-12-29,29,14542.76,2193,5,5,5,15,Champions
+RD-19480,Rick Duston,2014-12-31,27,16487.19,2191,5,5,5,15,Champions
+HG-15025,Hunter Glantz,2014-12-25,29,14737.81,2197,5,5,5,15,Champions
+JE-15715,Joe Elijah,2014-12-22,36,22275.27,2200,5,5,5,15,Champions
+SP-20620,Stefania Perrino,2014-12-26,31,19113.67,2196,5,5,5,15,Champions
+NF-18385,Natalie Fritzler,2014-12-24,32,28044.36,2198,5,5,5,15,Champions
+DJ-13510,Don Jones,2014-12-25,31,15420.29,2197,5,5,5,15,Champions
+DK-13090,Dave Kipp,2014-12-23,36,19178.64,2199,5,5,5,15,Champions
+BP-11185,Ben Peterman,2014-12-30,28,15376.03,2192,5,5,5,15,Champions
+JB-16000,Joy Bell-,2014-12-30,32,22127.18,2192,5,5,5,15,Champions
+KM-16375,Katherine Murray,2014-12-29,28,16394.46,2193,5,5,5,15,Champions
+MG-18205,Mitch Gastineau,2014-12-29,29,16362.9,2193,5,5,5,15,Champions
+JG-15160,James Galang,2014-12-30,32,19963.41,2192,5,5,5,15,Champions
+HJ-14875,Heather Jas,2014-12-26,32,14312.8,2196,5,5,5,15,Champions
+JM-15655,Jim Mitchum,2014-12-23,34,16294.73,2199,5,5,5,15,Champions
+BM-11785,Bryan Mills,2014-12-29,36,18446.85,2193,5,5,5,15,Champions
+FM-14215,Filia McAdams,2014-12-24,31,14353.4,2198,5,5,5,15,Champions
+DR-12880,Dan Reichenbach,2014-12-28,32,14415.34,2194,5,5,5,15,Champions
+EM-13960,Eric Murdock,2014-12-29,37,25228.53,2193,5,5,5,15,Champions
+EH-13765,Edward Hooks,2014-12-29,29,20259.92,2193,5,5,5,15,Champions
+MC-17635,Matthew Clasen,2014-12-26,34,21113.51,2196,5,5,5,15,Champions
+JD-15895,Jonathan Doherty,2014-12-25,32,16711.32,2197,5,5,5,15,Champions
+JF-15190,Jamie Frazer,2014-12-25,28,17064.71,2197,5,5,5,15,Champions
+MY-18295,Muhammed Yedwab,2014-12-31,29,25570.49,2191,5,5,5,15,Champions
+BM-11140,Becky Martin,2014-12-23,29,25312.29,2199,5,5,5,15,Champions
+RB-19465,Rick Bensley,2014-12-31,36,17178.44,2191,5,5,5,15,Champions
+PO-18850,Patrick O'Brill,2014-12-27,41,25274.47,2195,5,5,5,15,Champions
+PO-18865,Patrick O'Donnell,2014-12-31,35,21051.06,2191,5,5,5,15,Champions
+VW-21775,Victoria Wilson,2014-12-25,30,15785.38,2197,5,5,5,15,Champions
+MF-18250,Monica Federle,2014-12-24,32,20425.3,2198,5,5,5,15,Champions
+MM-17920,Michael Moore,2014-12-24,33,20383.65,2198,5,5,5,15,Champions
+CP-12340,Christine Phan,2014-12-23,30,20109.47,2199,5,5,5,15,Champions
+AH-10210,Alan Hwang,2014-12-25,34,20365.74,2197,5,5,5,15,Champions
+JK-16090,Juliana Krohn,2014-12-23,33,21918.74,2199,5,5,5,15,Champions
+SC-20695,Steve Chapman,2014-12-22,35,21931.04,2200,5,5,5,15,Champions
+MS-17365,Maribeth Schnelling,2014-12-26,34,20317.01,2196,5,5,5,15,Champions
+JF-15565,Jill Fjeld,2014-12-30,29,19844.15,2192,5,5,5,15,Champions
+AF-10870,Art Ferguson,2014-12-25,36,26487.26,2197,5,5,5,15,Champions
+GZ-14470,Gary Zandusky,2014-12-24,35,20869.7,2198,5,5,5,15,Champions
+JG-15805,John Grady,2014-12-31,37,22015.39,2191,5,5,5,15,Champions
+KH-16690,Kristen Hastings,2014-12-29,39,18158.46,2193,5,5,5,15,Champions
+LT-16765,Larry Tron,2014-12-25,30,17253.78,2197,5,5,5,15,Champions
+MC-17845,Michael Chen,2014-12-30,31,14947.88,2192,5,5,5,15,Champions
+HM-14860,Harry Marie,2014-12-30,37,27434.17,2192,5,5,5,15,Champions
+AG-10330,Alex Grayson,2014-12-23,29,14534.51,2199,5,5,5,15,Champions
+DM-13015,Darrin Martin,2014-12-26,30,15626.53,2196,5,5,5,15,Champions
+TP-21130,Theone Pippenger,2014-12-29,37,22697.58,2193,5,5,5,15,Champions
+FH-14365,Fred Hopkins,2014-12-30,30,27649.33,2192,5,5,5,15,Champions
+JD-16150,Justin Deggeller,2014-12-31,28,18281.85,2191,5,5,5,15,Champions
+AB-10015,Aaron Bergman,2014-12-15,32,20037.5,2207,4,5,5,14,Champions
+MB-17305,Maria Bertelson,2014-12-30,27,16729.35,2192,5,4,5,14,Champions
+PF-19225,Phillip Flathmann,2014-12-29,30,11915.2,2193,5,5,4,14,Champions
+WB-21850,William Brown,2014-12-11,38,16704.66,2211,4,5,5,14,Champions
+AM-10360,Alice McCarthy,2014-12-16,33,16730.33,2206,4,5,5,14,Champions
+MV-18190,Mike Vittorini,2014-12-12,30,15577.04,2210,4,5,5,14,Champions
+LP-17095,Liz Preis,2014-12-22,26,15598.15,2200,5,4,5,14,Champions
+MM-17260,Magdelene Morse,2014-12-27,26,15713.72,2195,5,4,5,14,Champions
+TT-21070,Ted Trevino,2014-12-17,31,15673.06,2205,4,5,5,14,Champions
+FO-14305,Frank Olsen,2014-12-09,37,15614.22,2213,4,5,5,14,Champions
+DK-12835,Damala Kotsonis,2014-12-10,32,17590.55,2212,4,5,5,14,Champions
+SS-20140,Saphhira Shifley,2014-12-16,32,20138.6,2206,4,5,5,14,Champions
+JA-15970,Joseph Airdo,2014-12-31,25,17105.47,2191,5,4,5,14,Champions
+CC-12475,Cindy Chapman,2014-12-15,30,17159.8,2207,4,5,5,14,Champions
+GM-14680,Greg Matthias,2014-12-30,31,12010.61,2192,5,5,4,14,Champions
+SR-20740,Steven Roelle,2014-12-08,33,17220.18,2214,4,5,5,14,Champions
+DW-13585,Dorothy Wardle,2014-12-26,37,12143.04,2196,5,5,4,14,Champions
+TB-21250,Tim Brockman,2014-12-29,28,11830.09,2193,5,5,4,14,Champions
+JH-15430,Jennifer Halladay,2014-12-26,31,11806.2,2196,5,5,4,14,Champions
+AS-10285,Alejandro Savely,2014-12-13,30,16179.86,2209,4,5,5,14,Champions
+MG-17695,Maureen Gnade,2014-12-31,25,16221.63,2191,5,4,5,14,Champions
+PV-18985,Paul Van Hugh,2014-12-23,28,12540.66,2199,5,5,4,14,Champions
+KA-16525,Kelly Andreada,2014-12-15,35,17449.9,2207,4,5,5,14,Champions
+TS-21505,Tony Sayre,2014-12-20,27,17613.42,2202,4,5,5,14,Champions
+CL-11890,Carl Ludwig,2014-12-18,31,17622.41,2204,4,5,5,14,Champions
+BE-11455,Brad Eason,2014-12-28,27,17643.53,2194,5,4,5,14,Champions
+DK-13375,Dennis Kane,2014-12-27,26,16258.53,2195,5,4,5,14,Champions
+DB-12910,Daniel Byrd,2014-12-29,27,12338.28,2193,5,5,4,14,Champions
+EP-13915,Emily Phan,2014-12-19,33,16283.36,2203,4,5,5,14,Champions
+SW-20275,Scott Williamson,2014-12-10,33,15564.97,2212,4,5,5,14,Champions
+RD-19585,Rob Dowd,2014-12-06,31,16315.11,2216,4,5,5,14,Champions
+JP-15520,Jeremy Pistek,2014-12-23,26,16429.05,2199,5,4,5,14,Champions
+MD-17350,Maribeth Dona,2014-12-05,30,16455.33,2217,4,5,5,14,Champions
+CD-11920,Carlos Daly,2014-12-29,27,18296.75,2193,5,4,5,14,Champions
+EH-14005,Erica Hernandez,2014-12-29,28,10374.94,2193,5,5,4,14,Champions
+ED-13885,Emily Ducich,2014-12-16,31,18018.88,2206,4,5,5,14,Champions
+DP-13390,Dennis Pardue,2014-12-31,27,10282.79,2191,5,5,4,14,Champions
+VT-21700,Valerie Takahito,2014-12-24,25,18099.31,2198,5,4,5,14,Champions
+JK-15370,Jay Kimmel,2014-12-30,27,10189.51,2192,5,5,4,14,Champions
+MG-18145,Mike Gockenbach,2014-12-29,24,18147.96,2193,5,4,5,14,Champions
+TT-21460,Tonja Turnell,2014-12-19,32,18432.01,2203,4,5,5,14,Champions
+PG-18895,Paul Gonzalez,2014-12-29,28,13941.69,2193,5,5,4,14,Champions
+TG-21640,Trudy Glocke,2014-12-26,33,13973.78,2196,5,5,4,14,Champions
+SC-20725,Steven Cartwright,2014-12-24,30,13975.42,2198,5,5,4,14,Champions
+CC-12430,Chuck Clark,2014-12-31,29,13997.59,2191,5,5,4,14,Champions
+DB-13210,Dean Braden,2014-12-24,27,13743.6,2198,5,5,4,14,Champions
+ST-20530,Shui Tom,2014-12-25,32,14064.01,2197,5,5,4,14,Champions
+JW-16075,Julia West,2014-12-30,25,19852.77,2192,5,4,5,14,Champions
+RB-19330,Randy Bradley,2014-12-16,32,18359.77,2206,4,5,5,14,Champions
+TS-21610,Troy Staebel,2014-12-11,30,20565.95,2211,4,5,5,14,Champions
+MW-18220,Mitch Webber,2014-12-14,28,20592.08,2208,4,5,5,14,Champions
+AS-10225,Alan Schoenberger,2014-12-19,28,21366.9,2203,4,5,5,14,Champions
+EM-14140,Eugene Moren,2014-12-07,30,21507.29,2215,4,5,5,14,Champions
+HG-14845,Harry Greene,2014-12-19,30,21228.55,2203,4,5,5,14,Champions
+DJ-13420,Denny Joy,2014-12-09,28,22142.43,2213,4,5,5,14,Champions
+MG-17890,Michael Granlund,2014-12-26,29,13162.25,2196,5,5,4,14,Champions
+MP-18175,Mike Pelletier,2014-12-15,36,22045.25,2207,4,5,5,14,Champions
+YS-21880,Yana Sorensen,2014-12-22,26,18703.61,2200,5,4,5,14,Champions
+DL-13330,Denise Leinenbach,2014-12-19,34,16781.63,2203,4,5,5,14,Champions
+RP-19390,Resi Pölking,2014-12-16,34,16114.91,2206,4,5,5,14,Champions
+SD-20485,Shirley Daniels,2014-12-16,32,16802.06,2206,4,5,5,14,Champions
+RA-19285,Ralph Arnett,2014-12-26,24,16816.43,2196,5,4,5,14,Champions
+CC-12610,Corey Catlett,2014-12-15,29,16822.64,2207,4,5,5,14,Champions
+CK-12205,Chloris Kastensmidt,2014-12-27,38,13625.21,2195,5,5,4,14,Champions
+CM-11830,Cari MacIntyre,2014-12-25,24,16828.82,2197,5,4,5,14,Champions
+NC-18625,Noah Childs,2014-12-11,29,16901.52,2211,4,5,5,14,Champions
+YC-21895,Yoseph Carroll,2014-12-27,27,19998.08,2195,5,4,5,14,Champions
+LC-16885,Lena Creighton,2014-12-15,29,17058.81,2207,4,5,5,14,Champions
+HG-14965,Henry Goldwyn,2014-12-08,34,16810.69,2214,4,5,5,14,Champions
+DK-13150,David Kendrick,2014-12-21,22,15983.71,2201,5,4,5,14,Champions
+JH-15985,Joseph Holt,2014-12-20,38,18863.4,2202,4,5,5,14,Champions
+DP-13105,Dave Poirier,2014-12-25,25,18930.03,2197,5,4,5,14,Champions
+PB-19210,Phillip Breyer,2014-12-23,27,18967.66,2199,5,4,5,14,Champions
+BD-11320,Bill Donatelli,2014-12-26,32,13390.27,2196,5,5,4,14,Champions
+EB-13975,Erica Bern,2014-12-31,32,13405.6,2191,5,5,4,14,Champions
+CS-11950,Carlos Soltero,2014-12-06,31,14222.97,2216,4,5,5,14,Champions
+JS-16030,Joy Smith,2014-12-10,32,19218.81,2212,4,5,5,14,Champions
+AR-10510,Andrew Roberts,2014-12-17,29,14277.89,2205,4,5,5,14,Champions
+KN-16390,Katherine Nockton,2014-12-12,29,19350.15,2210,4,5,5,14,Champions
+KH-16360,Katherine Hughes,2014-12-30,28,9983.51,2192,5,5,4,14,Champions
+ML-17395,Marina Lichtenstein,2014-12-31,25,14507.08,2191,5,4,5,14,Champions
+JH-15820,John Huston,2014-12-18,31,23586.72,2204,4,5,5,14,Champions
+AS-10090,Adam Shillingsburg,2014-12-16,32,15009.47,2206,4,5,5,14,Champions
+PG-18820,Patrick Gardner,2014-12-11,35,14635.94,2211,4,5,5,14,Champions
+JW-15220,Jane Waco,2014-12-19,34,23103.73,2203,4,5,5,14,Champions
+SF-20200,Sarah Foster,2014-12-26,28,13019.63,2196,5,5,4,14,Champions
+TC-21475,Tony Chapman,2014-12-30,29,10722.53,2192,5,5,4,14,Champions
+JB-15400,Jennifer Braxton,2014-12-24,34,13085.5,2198,5,5,4,14,Champions
+LA-16780,Laura Armstrong,2014-12-18,34,24273,2204,4,5,5,14,Champions
+DP-13165,David Philippe,2014-12-24,25,22211.28,2198,5,4,5,14,Champions
+NS-18505,Neola Schneider,2014-12-25,25,14834.29,2197,5,4,5,14,Champions
+MC-17425,Mark Cousins,2014-12-08,30,15055.41,2214,4,5,5,14,Champions
+LB-16735,Larry Blacks,2014-12-22,29,12686.04,2200,5,5,4,14,Champions
+AM-10705,Anne McFarland,2014-12-06,30,24218.56,2216,4,5,5,14,Champions
+SZ-20035,Sam Zeldin,2014-12-18,37,15192.38,2204,4,5,5,14,Champions
+EB-13840,Ellis Ballard,2014-12-29,25,20188.16,2193,5,4,5,14,Champions
+SC-20020,Sam Craven,2014-12-23,34,10579.47,2199,5,5,4,14,Champions
+BH-11710,Brosina Hoffman,2014-12-08,31,23537.34,2214,4,5,5,14,Champions
+BG-11740,Bruce Geld,2014-12-25,24,14689.34,2197,5,4,5,14,Champions
+AC-10615,Ann Chong,2014-12-25,29,12729.72,2197,5,5,4,14,Champions
+JL-15130,Jack Lebron,2014-12-23,28,12908.5,2199,5,5,4,14,Champions
+SW-20755,Steven Ward,2014-12-16,31,23321.58,2206,4,5,5,14,Champions
+RR-19525,Rick Reed,2014-12-31,27,15009.29,2191,5,4,5,14,Champions
+BF-11005,Barry Franz,2014-12-23,25,23347.84,2199,5,4,5,14,Champions
+PW-19030,Pauline Webber,2014-12-24,31,12810.06,2198,5,5,4,14,Champions
+JW-15955,Joni Wasserman,2014-12-26,30,10640.83,2196,5,5,4,14,Champions
+ES-14020,Erica Smith,2014-12-31,32,12827.27,2191,5,5,4,14,Champions
+BN-11470,Brad Norvell,2014-12-20,29,23378.1,2202,4,5,5,14,Champions
+CS-12460,Chuck Sachs,2014-12-25,23,20084.22,2197,5,4,5,14,Champions
+MP-17470,Mark Packer,2014-12-26,28,12928.8,2196,5,5,4,14,Champions
+JL-15835,John Lee,2014-12-10,30,22594.04,2212,4,5,5,14,Champions
+Dp-13240,Dean percer,2014-12-13,28,22225.61,2209,4,5,5,14,Champions
+GH-14425,Gary Hwang,2014-12-13,31,20039.76,2209,4,5,5,14,Champions
+BD-11725,Bruce Degenhardt,2014-12-27,30,10877.83,2195,5,5,4,14,Champions
+VG-21805,Vivek Grady,2014-12-29,23,22573.37,2193,5,4,5,14,Champions
+CS-12490,Cindy Schnelling,2014-12-29,30,11110.5,2193,5,5,4,14,Champions
+AT-10735,Annie Thurman,2014-12-29,29,12984.1,2193,5,5,4,14,Champions
+BS-11365,Bill Shonely,2014-12-31,26,22551.03,2191,5,4,5,14,Champions
+JF-15415,Jennifer Ferguson,2014-12-29,23,14717.47,2193,5,4,5,14,Champions
+GH-14665,Greg Hansen,2014-12-29,29,12921.45,2193,5,5,4,14,Champions
+LO-17170,Lori Olson,2014-12-29,28,11256.32,2193,5,5,4,14,Champions
+BF-11170,Ben Ferrer,2014-12-15,31,22314.84,2207,4,5,5,14,Champions
+AB-10255,Alejandro Ballentine,2014-12-26,31,10786.72,2196,5,5,4,14,Champions
+AR-10825,Anthony Rawles,2014-12-09,38,15311.04,2213,4,5,5,14,Champions
+MZ-17335,Maria Zettner,2014-12-10,26,14463.93,2212,4,4,5,13,Champions
+TC-21295,Toby Carlisle,2014-12-04,29,19391.9,2218,3,5,5,13,Champions
+LR-16915,Lena Radford,2014-12-05,26,22434.09,2217,4,4,5,13,Champions
+AH-10030,Aaron Hawkins,2014-12-19,27,14439.5,2203,4,4,5,13,Champions
+JC-15775,John Castell,2014-12-30,25,10582.79,2192,5,4,4,13,Champions
+DS-13180,David Smith,2014-12-17,31,13447.41,2205,4,5,4,13,Champions
+NG-18430,Nathan Gelder,2014-12-04,28,18970.41,2218,3,5,5,13,Champions
+SC-20770,Stewart Carmichael,2014-11-21,32,14495.11,2231,3,5,5,13,Champions
+CM-12160,Charles McCrossin,2014-12-05,26,17910.04,2217,4,4,5,13,Champions
+RO-19780,Rose O'Brian,2014-11-26,29,18833.44,2226,3,5,5,13,Champions
+RF-19735,Roland Fjeld,2014-12-30,23,12139.09,2192,5,4,4,13,Champions
+JL-15235,Janet Lee,2014-12-18,24,18725.39,2204,4,4,5,13,Champions
+MW-18235,Mitch Willingham,2014-12-15,24,17933.06,2207,4,4,5,13,Champions
+TA-21385,Tom Ashbrook,2014-12-13,25,35668.12,2209,4,4,5,13,Champions
+NF-18595,Nicole Fjeld,2014-12-20,22,10535.3,2202,5,4,4,13,Champions
+BG-11035,Barry Gonzalez,2014-12-03,33,19899.15,2219,3,5,5,13,Champions
+TC-20980,Tamara Chand,2014-12-04,28,34218.27,2218,3,5,5,13,Champions
+MJ-17740,Max Jones,2014-12-10,26,15347.66,2212,4,4,5,13,Champions
+MC-17575,Matt Collins,2014-12-04,33,14281.65,2218,3,5,5,13,Champions
+GK-14620,Grace Kelly,2014-12-19,24,19215.77,2203,4,4,5,13,Champions
+AA-10645,Anna Andreadi,2014-12-03,36,15343.89,2219,3,5,5,13,Champions
+MV-17485,Mark Van Huff,2014-12-15,27,10563.37,2207,4,5,4,13,Champions
+NH-18610,Nicole Hansen,2014-12-11,22,19181.93,2211,4,4,5,13,Champions
+CC-12670,Craig Carreira,2014-12-15,28,9969.03,2207,4,5,4,13,Champions
+RB-19795,Ross Baird,2014-11-29,35,19056.88,2223,3,5,5,13,Champions
+FP-14320,Frank Preis,2014-12-08,29,9939.05,2214,4,5,4,13,Champions
+SL-20155,Sara Luxemburg,2014-12-02,32,14380.69,2220,3,5,5,13,Champions
+FM-14290,Frank Merwin,2014-11-25,30,14382.32,2227,3,5,5,13,Champions
+LS-17230,Lycoris Saunders,2014-12-27,24,10577.17,2195,5,4,4,13,Champions
+HE-14800,Harold Engle,2014-12-25,27,9902.5,2197,5,4,4,13,Champions
+SC-20680,Steve Carroll,2014-12-10,31,13477.06,2212,4,5,4,13,Champions
+SV-20785,Stewart Visinsky,2014-12-09,27,14262.94,2213,4,4,5,13,Champions
+KB-16240,Karen Bern,2014-12-27,27,9900.7,2195,5,4,4,13,Champions
+SC-20845,Sung Chung,2014-12-23,24,9898.63,2199,5,4,4,13,Champions
+RA-19915,Russell Applegate,2014-12-19,27,20975.19,2203,4,4,5,13,Champions
+JM-15265,Janet Molinari,2014-11-24,29,15036.55,2228,3,5,5,13,Champions
+DM-12955,Dario Medina,2014-11-21,32,19862.58,2231,3,5,5,13,Champions
+AB-10165,Alan Barnes,2014-12-18,29,11649.27,2204,4,5,4,13,Champions
+MH-17785,Maya Herman,2014-12-31,26,11676.13,2191,5,4,4,13,Champions
+BE-11335,Bill Eplett,2014-11-26,37,27158.02,2226,3,5,5,13,Champions
+CB-12025,Cassandra Brandow,2014-12-22,25,11685.32,2200,5,4,4,13,Champions
+AB-10060,Adam Bellavance,2014-11-19,32,18416.55,2233,3,5,5,13,Champions
+TC-21145,Theresa Coyne,2014-12-20,25,18419.94,2202,4,4,5,13,Champions
+JK-15730,Joe Kamberova,2014-11-13,34,20825.89,2239,3,5,5,13,Champions
+DB-13270,Deborah Brumfield,2014-12-22,25,11690.37,2200,5,4,4,13,Champions
+SM-20950,Suzanne McNair,2014-12-06,29,11552.78,2216,4,5,4,13,Champions
+TC-21535,Tracy Collins,2014-12-31,30,8888.06,2191,5,5,3,13,Champions
+RB-19435,Richard Bierner,2014-12-12,28,11618.08,2210,4,5,4,13,Champions
+DR-12940,Daniel Raglin,2014-12-04,33,25641.46,2218,3,5,5,13,Champions
+NR-18550,Nick Radford,2014-12-29,26,10993.42,2193,5,4,4,13,Champions
+CA-11965,Carol Adams,2014-12-13,26,21110.52,2209,4,4,5,13,Champions
+JE-15745,Joel Eaton,2014-11-29,35,19629.13,2223,3,5,5,13,Champions
+OT-18730,Olvera Toch,2014-11-28,32,19493.77,2224,3,5,5,13,Champions
+RP-19855,Roy Phan,2014-12-10,27,11043.08,2212,4,5,4,13,Champions
+TB-21400,Tom Boeckenhauer,2014-12-06,26,21375.99,2216,4,4,5,13,Champions
+NC-18535,Nick Crebassa,2014-12-25,22,11054.38,2197,5,4,4,13,Champions
+SC-20230,Scot Coram,2014-12-15,25,20333.87,2207,4,4,5,13,Champions
+BD-11635,Brian Derr,2014-12-22,25,11230.7,2200,5,4,4,13,Champions
+NM-18445,Nathan Mautz,2014-12-01,32,20223.24,2221,3,5,5,13,Champions
+CM-12190,Charlotte Melton,2014-12-31,25,11375.05,2191,5,4,4,13,Champions
+NF-18475,Neil Französisch,2014-12-25,22,10630.91,2197,5,4,4,13,Champions
+KH-16510,Keith Herrera,2014-12-09,26,15340.4,2213,4,4,5,13,Champions
+KB-16405,Katrina Bavinger,2014-12-12,28,13786.09,2210,4,5,4,13,Champions
+PS-19045,Penelope Sewall,2014-12-11,26,29252.32,2211,4,4,5,13,Champions
+KB-16600,Ken Brennan,2014-12-30,25,10295.96,2192,5,4,4,13,Champions
+RB-19360,Raymond Buch,2014-12-11,25,29197.63,2211,4,4,5,13,Champions
+JB-16045,Julia Barnett,2014-12-31,24,13851.28,2191,5,4,4,13,Champions
+BN-11515,Bradley Nguyen,2014-12-22,23,10272.23,2200,5,4,4,13,Champions
+NP-18685,Nora Pelletier,2014-12-17,30,11363.43,2205,4,5,4,13,Champions
+PN-18775,Parhena Norris,2014-12-16,33,11370.47,2206,4,5,4,13,Champions
+DV-13045,Darrin Van Huff,2014-12-12,24,18106.01,2210,4,4,5,13,Champions
+CS-12400,Christopher Schild,2014-12-30,23,10221.36,2192,5,4,4,13,Champions
+AC-10420,Alyssa Crouse,2014-12-25,24,10607.69,2197,5,4,4,13,Champions
+TS-21205,Thomas Seio,2014-12-05,32,13888.62,2217,4,5,4,13,Champions
+LS-17200,Luke Schmidt,2014-12-16,24,15258.74,2206,4,4,5,13,Champions
+NC-18340,Nat Carroll,2014-12-26,22,13905.35,2196,5,4,4,13,Champions
+CC-12370,Christopher Conant,2014-11-18,30,28229.85,2234,3,5,5,13,Champions
+TR-21325,Toby Ritter,2014-12-30,22,10033.19,2192,5,4,4,13,Champions
+QJ-19255,Quincy Jones,2014-12-06,23,18192.92,2216,4,4,5,13,Champions
+PS-18970,Paul Stevenson,2014-12-04,33,18222.4,2218,3,5,5,13,Champions
+KH-16330,Katharine Harms,2014-12-15,26,15045.64,2207,4,4,5,13,Champions
+DK-13225,Dean Katz,2014-12-30,29,9246.47,2192,5,5,3,13,Champions
+CS-12355,Christine Sundaresam,2014-12-25,31,9240.9,2197,5,5,3,13,Champions
+JF-15490,Jeremy Farry,2014-12-27,30,9234.53,2195,5,5,3,13,Champions
+CS-11845,Cari Sayre,2014-12-16,26,20471.05,2206,4,4,5,13,Champions
+CS-12250,Chris Selesnick,2014-12-05,30,12496.11,2217,4,5,4,13,Champions
+BP-11290,Beth Paige,2014-12-19,29,12448.9,2203,4,5,4,13,Champions
+LB-16795,Laurel Beltran,2014-11-22,31,24589.87,2230,3,5,5,13,Champions
+NS-18640,Noel Staavos,2014-11-25,37,14866.09,2227,3,5,5,13,Champions
+BD-11500,Bradley Drucker,2014-12-12,27,13089.85,2210,4,5,4,13,Champions
+NM-18520,Neoma Murray,2014-12-12,27,12328.61,2210,4,5,4,13,Champions
+LC-17140,Logan Currie,2014-12-18,30,13128.24,2204,4,5,4,13,Champions
+AH-10690,Anna Häberlin,2014-12-01,31,16276.16,2221,3,5,5,13,Champions
+TG-21310,Toby Gnade,2014-12-17,32,12305.23,2205,4,5,4,13,Champions
+Co-12640,Corey-Lock,2014-12-27,25,12279.23,2195,5,4,4,13,Champions
+SS-20590,Sonia Sunley,2014-12-26,26,12181.43,2196,5,4,4,13,Champions
+BC-11125,Becky Castell,2014-11-28,28,14789.45,2224,3,5,5,13,Champions
+AG-10300,Aleksandra Gannaway,2014-12-29,24,13013.88,2193,5,4,4,13,Champions
+ON-18715,Odella Nelson,2014-11-14,33,17763.95,2238,3,5,5,13,Champions
+HM-14980,Henry MacAllister,2014-12-06,29,12718.79,2216,4,5,4,13,Champions
+JC-15340,Jasper Cacioppo,2014-11-27,29,17836.28,2225,3,5,5,13,Champions
+CK-12595,Clytie Kelty,2014-11-18,33,16480.87,2234,3,5,5,13,Champions
+PB-19150,Philip Brown,2014-12-26,33,7907.26,2196,5,5,3,13,Champions
+JG-15310,Jason Gross,2014-12-29,24,12733.7,2193,5,4,4,13,Champions
+MB-18085,Mick Brown,2014-11-17,30,14744.23,2235,3,5,5,13,Champions
+JK-15625,Jim Karlsson,2014-12-30,27,12754.41,2192,5,4,4,13,Champions
+MD-17860,Michael Dominguez,2014-11-25,28,15575.65,2227,3,5,5,13,Champions
+MY-17380,Maribeth Yedwab,2014-12-02,28,14724.15,2220,3,5,5,13,Champions
+TH-21550,Tracy Hopkins,2014-12-26,26,12808.91,2196,5,4,4,13,Champions
+BF-11215,Benjamin Farhat,2014-12-05,27,12968.94,2217,4,5,4,13,Champions
+CW-11905,Carl Weiss,2014-12-23,25,12917.63,2199,5,4,4,13,Champions
+SC-20380,Shahid Collister,2014-12-01,37,16122.72,2221,3,5,5,13,Champions
+LH-16900,Lena Hernandez,2014-12-10,29,12098.38,2212,4,5,4,13,Champions
+KE-16420,Katrina Edelman,2014-12-05,31,12928.69,2217,4,5,4,13,Champions
+AC-10450,Amy Cox,2014-12-26,19,16126.39,2196,5,3,5,13,Champions
+HW-14935,Helen Wasserman,2014-11-27,28,17199.2,2225,3,5,5,13,Champions
+MH-18115,Mick Hernandez,2014-12-26,26,12017.11,2196,5,4,4,13,Champions
+LC-17050,Liz Carlisle,2014-12-27,23,12933.87,2195,5,4,4,13,Champions
+MP-17965,Michael Paige,2014-12-04,39,17228.5,2218,3,5,5,13,Champions
+ML-17410,Maris LaWare,2014-11-28,30,14981.7,2224,3,5,5,13,Champions
+CR-12625,Corey Roper,2014-11-18,28,17271.21,2234,3,5,5,13,Champions
+CD-11980,Carol Darley,2014-12-30,23,11848.16,2192,5,4,4,13,Champions
+RD-19720,Roger Demir,2014-12-10,30,10902.53,2212,4,5,4,13,Champions
+LC-16960,Lindsay Castell,2014-12-29,22,11812.1,2193,5,4,4,13,Champions
+JC-15385,Jenna Caffey,2014-12-23,25,12978.93,2199,5,4,4,13,Champions
+DC-13285,Debra Catini,2014-12-13,23,16164.65,2209,4,4,5,13,Champions
+MS-17770,Maxwell Schwartz,2014-11-27,36,17382.94,2225,3,5,5,13,Champions
+NP-18325,Naresj Patel,2014-12-30,25,11778.49,2192,5,4,4,13,Champions
+TP-21565,Tracy Poddar,2014-12-17,30,12429.8,2205,4,5,4,13,Champions
+JK-15640,Jim Kriz,2014-12-31,26,12637.45,2191,5,4,4,13,Champions
+AS-10045,Aaron Smayling,2014-12-08,28,12596.29,2214,4,5,4,13,Champions
+CR-12730,Craig Reiter,2014-12-09,24,19487.96,2213,4,4,5,13,Champions
+GW-14605,Giulietta Weimer,2014-12-13,25,16239.49,2209,4,4,5,13,Champions
+DJ-13630,Doug Jacobs,2014-12-19,27,12560.13,2203,4,5,4,13,Champions
+CM-12115,Chad McGuire,2014-12-23,20,14657.95,2199,5,3,5,13,Champions
+KC-16675,Kimberly Carter,2014-12-29,23,13531.28,2193,5,4,4,13,Champions
+PR-18880,Patrick Ryan,2014-12-06,29,13243.62,2216,4,5,4,13,Champions
+FA-14230,Frank Atkinson,2014-12-09,29,13535.06,2213,4,5,4,13,Champions
+BP-11095,Bart Pistole,2014-12-29,32,8327.87,2193,5,5,3,13,Champions
+SC-20050,Sample Company A,2014-11-21,30,16813.22,2231,3,5,5,13,Champions
+CA-12265,Christina Anderson,2014-11-27,31,18472.67,2225,3,5,5,13,Champions
+FH-14275,Frank Hawley,2014-12-27,23,13569.57,2195,5,4,4,13,Champions
+MK-17905,Michael Kennedy,2014-12-10,31,13202.45,2212,4,5,4,13,Champions
+TB-21520,Tracy Blumstein,2014-12-01,34,16716.76,2221,3,5,5,13,Champions
+KD-16495,Keith Dawkins,2014-11-15,36,24996.5,2237,3,5,5,13,Champions
+DL-13315,Delfina Latchford,2014-12-13,27,18505.6,2209,4,4,5,13,Champions
+KL-16645,Ken Lonsdale,2014-11-14,28,22553.11,2238,3,5,5,13,Champions
+AB-10105,Adrian Barton,2014-12-04,33,22966.78,2218,3,5,5,13,Champions
+KM-16660,Khloe Miller,2014-12-16,29,10785.26,2206,4,5,4,13,Champions
+GH-14410,Gary Hansen,2014-12-11,36,13659.6,2211,4,5,4,13,Champions
+RP-19270,Rachel Payne,2014-12-24,26,13725.58,2198,5,4,4,13,Champions
+TH-21100,Thea Hendricks,2014-12-25,27,13684.87,2197,5,4,4,13,Champions
+GP-14740,Guy Phonely,2014-12-30,25,10793.73,2192,5,4,4,13,Champions
+RA-19945,Ryan Akin,2014-12-30,23,11696.03,2192,5,4,4,13,Champions
+MO-17800,Meg O'Connel,2014-12-25,25,13709.12,2197,5,4,4,13,Champions
+JL-15175,James Lanier,2014-12-25,27,13499.87,2197,5,4,4,13,Champions
+DB-13060,Dave Brooks,2014-12-15,26,23476.91,2207,4,4,5,13,Champions
+HD-14785,Harold Dahlen,2014-11-19,29,16749.14,2233,3,5,5,13,Champions
+DL-13495,Dionis Lloyd,2014-12-09,27,15872.18,2213,4,4,5,13,Champions
+JM-15580,Jill Matthias,2014-12-31,24,13295.86,2191,5,4,4,13,Champions
+SS-20410,Shahid Shariari,2014-11-28,27,15759.48,2224,3,5,5,13,Champions
+TH-21235,Tiffany House,2014-12-23,26,12896.25,2199,5,4,4,13,Champions
+RH-19495,Rick Hansen,2014-12-07,28,13295.75,2215,4,5,4,13,Champions
+PS-18760,Pamela Stobb,2014-12-02,28,15926.55,2220,3,5,5,13,Champions
+KT-16465,Kean Takahito,2014-11-18,32,15725.04,2234,3,5,5,13,Champions
+SH-19975,Sally Hughsby,2014-12-06,29,10893.51,2216,4,5,4,13,Champions
+MG-17680,Maureen Gastineau,2014-11-25,28,16061.64,2227,3,5,5,13,Champions
+RM-19375,Raymond Messe,2014-12-13,25,16077.68,2209,4,4,5,13,Champions
+SH-20395,Shahid Hopkins,2014-12-08,33,12849.17,2214,4,5,4,13,Champions
+GM-14440,Gary McGarr,2014-12-12,26,15782.46,2210,4,4,5,13,Champions
+KD-16270,Karen Daniels,2014-11-25,29,23204.27,2227,3,5,5,13,Champions
+SJ-20215,Sarah Jordon,2014-12-03,32,14709.7,2219,3,5,5,13,Champions
+CC-12220,Chris Cortes,2014-12-11,32,7308.73,2211,4,5,3,12,Loyal Customers
+SC-20095,Sanjit Chand,2014-10-17,28,25602.61,2266,2,5,5,12,Loyal Customers
+SC-20260,Scott Cohen,2014-12-31,26,9366.19,2191,5,4,3,12,Loyal Customers
+EM-14200,Evan Minnotte,2014-11-20,23,17087.78,2232,3,4,5,12,Loyal Customers
+KC-16540,Kelly Collister,2014-11-20,25,18897.13,2232,3,4,5,12,Loyal Customers
+SV-20365,Seth Vernon,2014-10-05,31,22376.45,2278,2,5,5,12,Loyal Customers
+BS-11665,Brian Stugart,2014-12-02,24,17468.88,2220,3,4,5,12,Loyal Customers
+AD-10180,Alan Dominguez,2014-12-02,27,17858.5,2220,3,4,5,12,Loyal Customers
+JH-16180,Justin Hirsh,2014-11-11,31,18267.01,2241,2,5,5,12,Loyal Customers
+CS-12175,Charles Sheldon,2014-11-01,29,16706.1,2251,2,5,5,12,Loyal Customers
+IM-15070,Irene Maddox,2014-11-21,27,17854.1,2231,3,4,5,12,Loyal Customers
+CB-12535,Claudia Bergmann,2014-11-19,27,18108.67,2233,3,4,5,12,Loyal Customers
+RW-19540,Rick Wilson,2014-11-19,25,19423.69,2233,3,4,5,12,Loyal Customers
+SC-20305,Sean Christensen,2014-12-02,26,17696.72,2220,3,4,5,12,Loyal Customers
+CD-12280,Christina DeMoss,2014-11-20,24,16779.55,2232,3,4,5,12,Loyal Customers
+AG-10900,Arthur Gainer,2014-11-04,29,18174.17,2248,2,5,5,12,Loyal Customers
+TS-21370,Todd Sumrall,2014-11-25,27,23201.68,2227,3,4,5,12,Loyal Customers
+AF-10885,Art Foster,2014-11-08,35,19711.17,2244,2,5,5,12,Loyal Customers
+PF-19120,Peter Fuller,2014-10-08,28,27993.05,2275,2,5,5,12,Loyal Customers
+CJ-12010,Caroline Jumper,2014-11-28,26,19356,2224,3,4,5,12,Loyal Customers
+BS-11380,Bill Stewart,2014-12-03,23,18305.98,2219,3,4,5,12,Loyal Customers
+BW-11110,Bart Watters,2014-11-07,35,30613.62,2245,2,5,5,12,Loyal Customers
+SM-20320,Sean Miller,2014-12-10,21,31125.29,2212,4,3,5,12,Loyal Customers
+EH-14125,Eugene Hildebrand,2014-09-20,31,17408.31,2293,2,5,5,12,Loyal Customers
+VP-21760,Victoria Pisteka,2014-10-17,28,16935.56,2266,2,5,5,12,Loyal Customers
+JK-15325,Jason Klamczynski,2014-10-15,28,17000.84,2268,2,5,5,12,Loyal Customers
+SB-20170,Sarah Bern,2014-12-29,15,12950.93,2193,5,3,4,12,Loyal Customers
+MS-17830,Melanie Seite,2014-12-08,26,11783.4,2214,4,4,4,12,Loyal Customers
+BW-11200,Ben Wallace,2014-11-21,29,11862.37,2231,3,5,4,12,Loyal Customers
+Dl-13600,Dorris liebe,2014-12-26,20,11912.76,2196,5,3,4,12,Loyal Customers
+CM-12445,Chuck Magee,2014-12-16,25,11971.71,2206,4,4,4,12,Loyal Customers
+VF-21715,Vicky Freymann,2014-12-18,24,12000.13,2204,4,4,4,12,Loyal Customers
+ND-18460,Neil Ducich,2014-12-26,22,12061.44,2196,5,3,4,12,Loyal Customers
+KL-16555,Kelly Lampkin,2014-12-16,26,12064.39,2206,4,4,4,12,Loyal Customers
+PB-18805,Patrick Bzostek,2014-12-23,19,12075.4,2199,5,3,4,12,Loyal Customers
+DO-13645,Doug O'Connell,2014-12-05,25,12083.48,2217,4,4,4,12,Loyal Customers
+MS-17980,Michael Stewart,2014-12-05,27,16210.57,2217,3,4,5,12,Loyal Customers
+BM-11650,Brian Moss,2014-11-28,24,14921,2224,3,4,5,12,Loyal Customers
+DA-13450,Dianna Arnett,2014-12-18,25,13035.37,2204,4,4,4,12,Loyal Customers
+DN-13690,Duane Noonan,2014-12-12,24,13098.34,2210,4,4,4,12,Loyal Customers
+CB-12415,Christy Brittain,2014-12-05,23,12705.55,2217,4,4,4,12,Loyal Customers
+SR-20425,Sharelle Roach,2014-12-23,19,12721.25,2199,5,3,4,12,Loyal Customers
+LF-17185,Luke Foster,2014-12-09,22,12864.72,2213,4,4,4,12,Loyal Customers
+MN-17935,Michael Nguyen,2014-12-23,21,12870.93,2199,5,3,4,12,Loyal Customers
+PM-18940,Paul MacIntyre,2014-12-10,23,12893.59,2212,4,4,4,12,Loyal Customers
+RM-19675,Robert Marley,2014-12-27,19,11151.96,2195,5,3,4,12,Loyal Customers
+BB-11545,Brenda Bowman,2014-12-03,26,15797.57,2219,3,4,5,12,Loyal Customers
+LR-17035,Lisa Ryan,2014-11-16,26,16118.97,2236,3,4,5,12,Loyal Customers
+SA-20830,Sue Ann Reed,2014-10-29,30,15622.38,2254,2,5,5,12,Loyal Customers
+SC-20440,Shaun Chance,2014-12-22,25,7677.44,2200,5,4,3,12,Loyal Customers
+JM-15250,Janet Martin,2014-11-26,24,15594.46,2226,3,4,5,12,Loyal Customers
+KN-16450,Kean Nguyen,2014-11-24,26,16294.7,2228,3,4,5,12,Loyal Customers
+EG-13900,Emily Grady,2014-12-09,21,16562.35,2213,4,3,5,12,Loyal Customers
+BE-11410,Bobby Elias,2014-10-08,30,16552.07,2275,2,5,5,12,Loyal Customers
+TN-21040,Tanja Norvell,2014-12-09,29,9410.26,2213,4,5,3,12,Loyal Customers
+GG-14650,Greg Guthrie,2014-11-28,28,12902.96,2224,3,5,4,12,Loyal Customers
+JB-15925,Joni Blumstein,2014-12-22,19,12325.29,2200,5,3,4,12,Loyal Customers
+BO-11425,Bobby Odegard,2014-12-26,21,12356.59,2196,5,3,4,12,Loyal Customers
+EB-13705,Ed Braxton,2014-11-13,30,12382.28,2239,3,5,4,12,Loyal Customers
+SP-20650,Stephanie Phelps,2014-12-11,24,10377.87,2211,4,4,4,12,Loyal Customers
+GA-14515,George Ashbrook,2014-12-09,24,12488.67,2213,4,4,4,12,Loyal Customers
+JH-15910,Jonathan Howell,2014-11-20,32,12532.72,2232,3,5,4,12,Loyal Customers
+CJ-11875,Carl Jackson,2014-12-18,23,12538.83,2204,4,4,4,12,Loyal Customers
+ES-14080,Erin Smith,2014-12-03,24,16236.01,2219,3,4,5,12,Loyal Customers
+CS-12130,Chad Sievert,2014-12-20,22,10981.23,2202,4,4,4,12,Loyal Customers
+FH-14350,Fred Harton,2014-12-30,20,10654.53,2192,5,3,4,12,Loyal Customers
+KW-16435,Katrina Willman,2014-12-05,23,15319.97,2217,3,4,5,12,Loyal Customers
+DO-13435,Denny Ordway,2014-10-28,32,15280.89,2255,2,5,5,12,Loyal Customers
+AJ-10780,Anthony Jacobs,2014-11-13,25,15186.07,2239,3,4,5,12,Loyal Customers
+SK-19990,Sally Knutson,2014-12-23,19,10932.97,2199,5,3,4,12,Loyal Customers
+RH-19510,Rick Huthwaite,2014-12-11,25,11599.39,2211,4,4,4,12,Loyal Customers
+VP-21730,Victor Preis,2014-12-01,29,11629.27,2221,3,5,4,12,Loyal Customers
+MC-17275,Marc Crier,2014-11-17,34,11680.05,2235,3,5,4,12,Loyal Customers
+RB-19570,Rob Beeghly,2014-12-11,25,10961.63,2211,4,4,4,12,Loyal Customers
+NL-18310,Nancy Lomonaco,2014-12-06,25,10587.33,2216,4,4,4,12,Loyal Customers
+AJ-10945,Ashley Jarboe,2014-12-03,29,11087.02,2219,3,5,4,12,Loyal Customers
+AA-10375,Allen Armold,2014-12-25,23,5884.2,2197,5,4,3,12,Loyal Customers
+SW-20455,Shaun Weien,2014-12-24,22,6038.02,2198,5,4,3,12,Loyal Customers
+MM-18055,Michelle Moray,2014-12-16,25,11163.59,2206,4,4,4,12,Loyal Customers
+RW-19690,Robert Waldorf,2014-12-16,25,11200.14,2206,4,4,4,12,Loyal Customers
+SG-20890,Susan Gilcrest,2014-12-15,22,11260.3,2207,4,4,4,12,Loyal Customers
+LL-16840,Lauren Leatherbury,2014-12-05,26,11287.78,2217,4,4,4,12,Loyal Customers
+MC-18100,Mick Crebagga,2014-11-20,33,11353.75,2232,3,5,4,12,Loyal Customers
+AO-10810,Anthony O'Donnell,2014-11-25,27,14537.8,2227,3,4,5,12,Loyal Customers
+PC-18745,Pamela Coakley,2014-12-29,21,10693.5,2193,5,3,4,12,Loyal Customers
+BG-11695,Brooke Gillingham,2014-12-22,19,10723.32,2200,5,3,4,12,Loyal Customers
+GB-14575,Giulietta Baptist,2014-12-18,24,10748.99,2204,4,4,4,12,Loyal Customers
+SG-20080,Sandra Glassco,2014-12-28,17,10774.5,2194,5,3,4,12,Loyal Customers
+SV-20815,Stuart Van,2014-11-27,24,14575.5,2225,3,4,5,12,Loyal Customers
+BS-11800,Bryan Spruell,2014-12-22,21,10887.21,2200,5,3,4,12,Loyal Customers
+EM-14095,Eudokia Martin,2014-12-23,17,10889.7,2199,5,3,4,12,Loyal Customers
+ND-18370,Natalie DeCherney,2014-12-19,23,10913.15,2203,4,4,4,12,Loyal Customers
+MH-17440,Mark Haberlin,2014-12-23,25,7945.05,2199,5,4,3,12,Loyal Customers
+SO-20335,Sean O'Donnell,2014-12-02,27,15534.95,2220,3,4,5,12,Loyal Customers
+IG-15085,Ivan Gibson,2014-12-18,25,10383.13,2204,4,4,4,12,Loyal Customers
+RA-19885,Ruben Ausman,2014-11-18,23,15435.5,2234,3,4,5,12,Loyal Customers
+LE-16810,Laurel Elliston,2014-12-17,24,10429.25,2205,4,4,4,12,Loyal Customers
+AG-10495,Andrew Gjertsen,2014-10-14,29,15380.31,2269,2,5,5,12,Loyal Customers
+LW-17215,Luke Weiss,2014-12-10,24,10529.49,2212,4,4,4,12,Loyal Customers
+ME-18010,Michelle Ellison,2014-11-19,27,10547.63,2233,3,5,4,12,Loyal Customers
+SJ-20125,Sanjit Jacobs,2014-11-29,30,10562.09,2223,3,5,4,12,Loyal Customers
+DF-13135,David Flashing,2014-12-22,18,10240.38,2200,5,3,4,12,Loyal Customers
+MZ-17515,Mary Zewe,2014-12-08,25,13383.98,2214,4,4,4,12,Loyal Customers
+KH-16630,Ken Heidel,2014-12-23,27,7220.7,2199,5,4,3,12,Loyal Customers
+PW-19240,Pierre Wener,2014-12-30,24,7186.14,2192,5,4,3,12,Loyal Customers
+MS-17530,MaryBeth Skach,2014-12-16,25,13335.04,2206,4,4,4,12,Loyal Customers
+RD-19810,Ross DeVincentis,2014-12-17,30,7091.1,2205,4,5,3,12,Loyal Customers
+PL-18925,Paul Lucas,2014-12-16,20,14256.72,2206,4,3,5,12,Loyal Customers
+TD-20995,Tamara Dahlen,2014-12-31,25,6924.19,2191,5,4,3,12,Loyal Customers
+DG-13300,Deirdre Greer,2014-12-01,28,13731.43,2221,3,5,4,12,Loyal Customers
+CM-11815,Candace McMahon,2014-11-21,23,14362.8,2231,3,4,5,12,Loyal Customers
+HF-14995,Herbert Flentye,2014-12-17,28,9712.87,2205,4,5,3,12,Loyal Customers
+DW-13195,David Wiener,2014-12-25,26,9689.32,2197,5,4,3,12,Loyal Customers
+JS-15685,Jim Sink,2014-11-21,26,14338.52,2231,3,4,5,12,Loyal Customers
+BF-11020,Barry Französisch,2014-12-16,24,10201.28,2206,4,4,4,12,Loyal Customers
+AA-10315,Alex Avila,2014-12-23,19,13747.41,2199,5,3,4,12,Loyal Customers
+JD-15790,John Dryer,2014-12-16,24,10267.75,2206,4,4,4,12,Loyal Customers
+PM-19135,Peter McVee,2014-12-19,22,9857.66,2203,4,4,4,12,Loyal Customers
+JP-16135,Julie Prescott,2014-11-18,34,10163.51,2234,3,5,4,12,Loyal Customers
+DE-13255,Deanra Eno,2014-12-12,22,10085.79,2210,4,4,4,12,Loyal Customers
+DB-13615,Doug Bickford,2014-12-04,28,10031.46,2218,3,5,4,12,Loyal Customers
+BB-10990,Barry Blumstein,2014-12-17,30,9064.53,2205,4,5,3,12,Loyal Customers
+KW-16570,Kelly Williams,2014-12-09,34,9256.06,2213,4,5,3,12,Loyal Customers
+AS-10240,Alan Shonely,2014-12-19,31,9006.67,2203,4,5,3,12,Loyal Customers
+BV-11245,Benjamin Venier,2014-11-17,22,20681.68,2235,3,4,5,12,Loyal Customers
+JM-15865,John Murray,2014-10-24,29,20841.95,2259,2,5,5,12,Loyal Customers
+SB-20185,Sarah Brown,2014-10-18,31,21034.46,2265,2,5,5,12,Loyal Customers
+GA-14725,Guy Armstrong,2014-12-29,24,8817.55,2193,5,4,3,12,Loyal Customers
+TB-21175,Thomas Boland,2014-11-22,27,16573.6,2230,3,4,5,12,Loyal Customers
+BF-11275,Beth Fritzler,2014-12-25,23,9578.6,2197,5,4,3,12,Loyal Customers
+CM-12385,Christopher Martinez,2014-11-24,25,21882.97,2228,3,4,5,12,Loyal Customers
+PP-18955,Paul Prost,2014-11-07,30,21884.18,2245,2,5,5,12,Loyal Customers
+LD-16855,Lela Donovan,2014-11-19,30,13361.93,2233,3,5,4,12,Loyal Customers
+AP-10915,Arthur Prichep,2014-10-16,32,15877.86,2267,2,5,5,12,Loyal Customers
+PF-19165,Philip Fox,2014-10-01,36,16018.84,2282,2,5,5,12,Loyal Customers
+DB-13405,Denny Blanton,2014-12-03,26,16083.96,2219,3,4,5,12,Loyal Customers
+RD-19900,Ruben Dartt,2014-11-29,29,13485.75,2223,3,5,4,12,Loyal Customers
+PT-19090,Pete Takahito,2014-12-25,25,8370.78,2197,5,4,3,12,Loyal Customers
+SW-20245,Scot Wooten,2014-12-19,26,13576.68,2203,4,4,4,12,Loyal Customers
+TS-21160,Theresa Swint,2014-12-23,22,6805.94,2199,5,4,3,12,Loyal Customers
+AT-10435,Alyssa Tate,2014-12-19,24,13654.31,2203,4,4,4,12,Loyal Customers
+TB-21055,Ted Butterfield,2014-11-26,29,13671.71,2226,3,5,4,12,Loyal Customers
+VM-21685,Valerie Mitchum,2014-11-29,32,13708.12,2223,3,5,4,12,Loyal Customers
+AW-10840,Anthony Witt,2014-12-15,25,13200.26,2207,4,4,4,12,Loyal Customers
+TB-21625,Trudy Brown,2014-12-01,31,13266.2,2221,3,5,4,12,Loyal Customers
+BK-11260,Berenike Kampe,2014-12-05,27,13294.69,2217,3,5,4,12,Loyal Customers
+SU-20665,Stephanie Ulpright,2014-12-27,23,7442.46,2195,5,4,3,12,Loyal Customers
+VD-21670,Valerie Dominguez,2014-11-25,21,14754.87,2227,3,3,5,11,Loyal Customers
+KM-16720,Kunst Miller,2014-12-03,23,14041.02,2219,3,4,4,11,Loyal Customers
+RS-19420,Ricardo Sperren,2014-10-16,28,14047.15,2267,2,5,4,11,Loyal Customers
+LH-17155,Logan Haushalter,2014-10-17,29,14063.49,2266,2,5,4,11,Loyal Customers
+RH-19600,Rob Haberlin,2014-12-25,21,4629.7,2197,5,3,3,11,Loyal Customers
+BT-11680,Brian Thompson,2014-12-13,22,14087.76,2209,4,3,4,11,Loyal Customers
+TM-21490,Tony Molinari,2014-11-21,27,13908.86,2231,3,4,4,11,Loyal Customers
+AR-10345,Alex Russell,2014-12-02,26,14165.8,2220,3,4,4,11,Loyal Customers
+TT-21265,Tim Taslimi,2014-12-30,20,4730.64,2192,5,3,3,11,Loyal Customers
+MO-17950,Michael Oakman,2014-12-25,14,4527.39,2197,5,3,3,11,Loyal Customers
+RS-19765,Roland Schwarz,2014-11-25,25,13582.12,2227,3,4,4,11,Loyal Customers
+DB-13120,David Bremer,2014-12-26,16,5602.59,2196,5,3,3,11,Loyal Customers
+IG-5085,Ivan Gibson,2014-12-30,12,5766.24,2192,5,3,3,11,Loyal Customers
+NP-18700,Nora Preis,2014-12-03,27,14036.43,2219,3,4,4,11,Loyal Customers
+SH-20635,Stefanie Holloman,2014-12-01,25,13546.75,2221,3,4,4,11,Loyal Customers
+JR-15670,Jim Radford,2014-12-19,20,13338.09,2203,4,3,4,11,Loyal Customers
+BP-11050,Barry Pond,2014-12-26,21,5403.79,2196,5,3,3,11,Loyal Customers
+NF-8385,Natalie Fritzler,2014-12-30,11,3736.9,2192,5,3,3,11,Loyal Customers
+NZ-18565,Nick Zandusky,2014-10-07,26,19941.7,2276,2,4,5,11,Loyal Customers
+HL-15040,Hunter Lopez,2014-12-01,20,29664.23,2221,3,3,5,11,Loyal Customers
+RL-19615,Rob Lucas,2014-09-02,23,14866.82,2311,2,4,5,11,Loyal Customers
+JS-15940,Joni Sundaresam,2014-12-26,15,3874.77,2196,5,3,3,11,Loyal Customers
+LA-6780,Laura Armstrong,2014-12-30,12,3589.44,2192,5,3,3,11,Loyal Customers
+MF-17665,Maureen Fritzler,2014-11-10,29,13366.53,2242,2,5,4,11,Loyal Customers
+HK-14890,Heather Kirkland,2014-11-18,27,13886.44,2234,3,4,4,11,Loyal Customers
+TT-21220,Thomas Thornton,2014-11-24,22,13224.56,2228,3,4,4,11,Loyal Customers
+HA-14905,Helen Abelman,2014-10-23,24,15826.81,2260,2,4,5,11,Loyal Customers
+CR-12820,Cyra Reiten,2014-11-01,24,14470.55,2251,2,4,5,11,Loyal Customers
+JE-15610,Jim Epp,2014-11-19,26,13192.69,2233,3,4,4,11,Loyal Customers
+DW-13540,Don Weiss,2014-12-19,20,13166.42,2203,4,3,4,11,Loyal Customers
+MH-17290,Marc Harrigan,2014-11-24,25,13718.7,2228,3,4,4,11,Loyal Customers
+GM-14695,Greg Maxwell,2014-11-14,19,14564.94,2238,3,3,5,11,Loyal Customers
+CT-11995,Carol Triggs,2014-12-03,27,13715.8,2219,3,4,4,11,Loyal Customers
+BT-11530,Bradley Talbott,2014-11-28,25,13808.32,2224,3,4,4,11,Loyal Customers
+BP-11155,Becky Pak,2014-11-29,24,13696.14,2223,3,4,4,11,Loyal Customers
+DP-13000,Darren Powers,2014-10-31,31,13882.76,2252,2,5,4,11,Loyal Customers
+KF-16285,Karen Ferguson,2014-11-24,21,15164.87,2228,3,3,5,11,Loyal Customers
+AP-10720,Anne Pryor,2014-11-20,20,15362.06,2232,3,3,5,11,Loyal Customers
+CM-12655,Corinna Mitchell,2014-12-04,18,14188.72,2218,3,3,5,11,Loyal Customers
+CY-12745,Craig Yedwab,2014-11-01,31,13928.47,2251,2,5,4,11,Loyal Customers
+TW-21025,Tamara Willingham,2014-11-20,27,13931.9,2232,3,4,4,11,Loyal Customers
+EB-14110,Eugene Barchas,2014-11-26,24,13665.47,2226,3,4,4,11,Loyal Customers
+DW-13480,Dianna Wilson,2014-10-27,23,16336.86,2256,2,4,5,11,Loyal Customers
+KB-16585,Ken Black,2014-09-29,27,16385.75,2284,2,4,5,11,Loyal Customers
+AC-10660,Anna Chung,2014-12-29,21,6255.62,2193,5,3,3,11,Loyal Customers
+TH-21115,Thea Hudgings,2014-11-18,25,13483.62,2234,3,4,4,11,Loyal Customers
+ML-18265,Muhammed Lee,2014-09-22,26,14674,2291,2,4,5,11,Loyal Customers
+MO-17500,Mary O'Rourke,2014-11-25,24,10314.41,2227,3,4,4,11,Loyal Customers
+AG-10765,Anthony Garverick,2014-12-03,27,9824.78,2219,3,4,4,11,Loyal Customers
+HR-14770,Hallie Redmond,2014-12-18,18,11126.93,2204,4,3,4,11,Loyal Customers
+CV-12805,Cynthia Voltz,2014-12-27,20,9764.13,2195,5,3,3,11,Loyal Customers
+HA-14920,Helen Andreada,2014-12-11,25,9740.4,2211,4,4,3,11,Loyal Customers
+JR-16210,Justin Ritter,2014-12-13,21,12589.96,2209,4,3,4,11,Loyal Customers
+BT-11395,Bill Tyler,2014-12-03,24,11347.53,2219,3,4,4,11,Loyal Customers
+SC-20575,Sonia Cooley,2014-12-04,33,9685.42,2218,3,5,3,11,Loyal Customers
+MH-17620,Matt Hagelstein,2014-12-08,20,11038.31,2214,4,3,4,11,Loyal Customers
+MH-18025,Michelle Huthwaite,2014-12-11,19,11753.7,2211,4,3,4,11,Loyal Customers
+BM-11575,Brendan Murry,2014-11-27,25,10351.33,2225,3,4,4,11,Loyal Customers
+BT-11305,Beth Thompson,2014-12-03,24,10321.82,2219,3,4,4,11,Loyal Customers
+MA-17995,Michelle Arnett,2014-11-19,22,10006.45,2233,3,4,4,11,Loyal Customers
+RR-19315,Ralph Ritter,2014-12-12,21,11765.04,2210,4,3,4,11,Loyal Customers
+BS-11590,Brendan Sweed,2014-11-26,23,11358.59,2226,3,4,4,11,Loyal Customers
+AW-10930,Arthur Wiediger,2014-11-26,22,10230.96,2226,3,4,4,11,Loyal Customers
+NB-18655,Nona Balk,2014-12-12,22,9647.2,2210,4,4,3,11,Loyal Customers
+BD-11770,Bryan Davis,2014-11-26,26,10168.33,2226,3,4,4,11,Loyal Customers
+BF-11080,Bart Folk,2014-12-06,21,10134.56,2216,4,3,4,11,Loyal Customers
+GB-14530,George Bell,2014-11-28,25,11657.75,2224,3,4,4,11,Loyal Customers
+EM-14065,Erin Mull,2014-12-15,17,12108.31,2207,4,3,4,11,Loyal Customers
+MK-18160,Mike Kennedy,2014-12-09,20,10043.32,2213,4,3,4,11,Loyal Customers
+CM-12235,Chris McAfee,2014-11-19,22,11377.59,2233,3,4,4,11,Loyal Customers
+AR-10540,Andy Reiter,2014-12-25,15,7983.95,2197,5,3,3,11,Loyal Customers
+SS-20515,Shirley Schmidt,2014-12-31,19,7480.62,2191,5,3,3,11,Loyal Customers
+TB-11250,Tim Brockman,2014-12-30,15,7270.84,2192,5,3,3,11,Loyal Customers
+SV-10815,Stuart Van,2014-12-23,9,7728.91,2199,5,3,3,11,Loyal Customers
+KM-16225,Kalyca Meade,2014-12-31,18,7754.55,2191,5,3,3,11,Loyal Customers
+LC-16930,Linda Cazamias,2014-11-20,26,11660.69,2232,3,4,4,11,Loyal Customers
+RE-19450,Richard Eichhorn,2014-12-08,18,10660.49,2214,4,3,4,11,Loyal Customers
+MM-18280,Muhammed MacIntyre,2014-12-19,25,7134.3,2203,4,4,3,11,Loyal Customers
+ME-17725,Max Engle,2014-12-03,28,7839.89,2219,3,5,3,11,Loyal Customers
+ML-18040,Michelle Lonsdale,2014-12-24,19,8677.6,2198,5,3,3,11,Loyal Customers
+LH-16750,Larry Hughes,2014-12-19,22,7945.09,2203,4,4,3,11,Loyal Customers
+SG-20605,Speros Goranitis,2014-10-17,32,10128.54,2266,2,5,4,11,Loyal Customers
+AG-10270,Alejandro Grove,2014-11-21,25,10637.4,2231,3,4,4,11,Loyal Customers
+CC-2370,Christopher Conant,2014-12-25,9,6957.23,2197,5,3,3,11,Loyal Customers
+JC-16105,Julie Creighton,2014-11-04,28,11079.1,2248,2,5,4,11,Loyal Customers
+GM-14455,Gary Mitchum,2014-12-15,17,10523.65,2207,4,3,4,11,Loyal Customers
+RC-19960,Ryan Crowe,2014-12-09,22,7897.87,2213,4,4,3,11,Loyal Customers
+LW-16825,Laurel Workman,2014-12-09,20,9990.86,2213,4,3,4,11,Loyal Customers
+VB-21745,Victoria Brennan,2014-12-19,21,9961.05,2203,4,3,4,11,Loyal Customers
+EJ-14155,Eva Jacobs,2014-12-04,23,12324.84,2218,3,4,4,11,Loyal Customers
+SC-20800,Stuart Calhoun,2014-12-01,24,11321.28,2221,3,4,4,11,Loyal Customers
+BP-11230,Benjamin Patterson,2014-11-22,23,12573.61,2230,3,4,4,11,Loyal Customers
+NK-18490,Neil Knudson,2014-12-05,24,11483.19,2217,3,4,4,11,Loyal Customers
+XP-21865,Xylona Preis,2014-11-18,27,11187.15,2234,3,4,4,11,Loyal Customers
+JR-15700,Jocasta Rupert,2014-12-24,18,9568.32,2198,5,3,3,11,Loyal Customers
+SB-20290,Sean Braxton,2014-11-20,22,18538.53,2232,3,3,5,11,Loyal Customers
+AI-10855,Arianne Irving,2014-12-18,22,8358.6,2204,4,4,3,11,Loyal Customers
+EH-14185,Evan Henry,2014-10-25,29,12800.51,2258,2,5,4,11,Loyal Customers
+ZD-21925,Zuschuss Donatelli,2014-12-30,20,9479.34,2192,5,3,3,11,Loyal Customers
+CA-12055,Cathy Armstrong,2014-12-18,22,10691.03,2204,4,3,4,11,Loyal Customers
+AR-10570,Anemone Ratner,2014-12-29,18,9445.65,2193,5,3,3,11,Loyal Customers
+SG-20470,Sheri Gordon,2014-10-02,28,10730.28,2281,2,5,4,11,Loyal Customers
+DL-12865,Dan Lawera,2014-11-04,34,11185.72,2248,2,5,4,11,Loyal Customers
+LS-17245,Lynn Smith,2014-11-27,24,10758.99,2225,3,4,4,11,Loyal Customers
+FC-14245,Frank Carlisle,2014-11-19,23,10867.81,2233,3,4,4,11,Loyal Customers
+BD-11560,Brendan Dodson,2014-12-24,19,9356.78,2198,5,3,3,11,Loyal Customers
+JS-15595,Jill Stevenson,2014-12-26,18,9334.64,2196,5,3,3,11,Loyal Customers
+MR-17545,Mathew Reese,2014-09-25,23,19246.71,2288,2,4,5,11,Loyal Customers
+DC-12850,Dan Campbell,2014-11-24,29,9307.37,2228,3,5,3,11,Loyal Customers
+JP-15460,Jennifer Patt,2014-11-25,26,10916.37,2227,3,4,4,11,Loyal Customers
+DK-12895,Dana Kaydos,2014-11-16,22,18340.63,2236,3,3,5,11,Loyal Customers
+CA-12775,Cynthia Arntzen,2014-09-29,26,18350.46,2284,2,4,5,11,Loyal Customers
+AB-10150,Aimee Bixby,2014-11-26,24,13057.29,2226,3,4,4,11,Loyal Customers
+PJ-19015,Pauline Johnson,2014-12-12,22,9230.88,2210,4,4,3,11,Loyal Customers
+DB-13360,Dennis Bolton,2014-11-14,28,6919.81,2238,3,5,3,11,Loyal Customers
+EA-14035,Erin Ashbrook,2014-09-29,31,11387.07,2284,2,5,4,11,Loyal Customers
+DB-13660,Duane Benoit,2014-12-19,20,11397.06,2203,4,3,4,11,Loyal Customers
+AH-10585,Angele Hood,2014-12-10,22,9125.89,2212,4,4,3,11,Loyal Customers
+LW-16990,Lindsay Williams,2014-12-08,23,9111.85,2214,4,4,3,11,Loyal Customers
+FW-14395,Fred Wasserman,2014-10-29,26,16972.75,2254,2,4,5,11,Loyal Customers
+TP-21415,Tom Prescott,2014-11-13,22,10926.72,2239,3,4,4,11,Loyal Customers
+LT-17110,Liz Thompson,2014-11-27,26,12986.77,2225,3,4,4,11,Loyal Customers
+SN-20710,Steve Nguyen,2014-11-17,24,12703.94,2235,3,4,4,11,Loyal Customers
+MG-17650,Matthew Grinstein,2014-12-12,21,12717.27,2210,4,3,4,11,Loyal Customers
+RH-19555,Ritsa Hightower,2014-12-24,21,8944.31,2198,5,3,3,11,Loyal Customers
+EB-14170,Evan Bailliet,2014-12-12,23,6736.44,2210,4,4,3,11,Loyal Customers
+JS-15880,John Stevenson,2014-12-20,20,10443.1,2202,4,3,4,11,Loyal Customers
+BT-11485,Brad Thomas,2014-12-01,29,8878.05,2221,3,5,3,11,Loyal Customers
+JF-15295,Jason Fortune-,2014-11-05,24,20382.25,2247,2,4,5,11,Loyal Customers
+GH-4425,Gary Hwang,2014-12-10,10,4585.83,2212,4,3,3,10,Loyal Customers
+DD-13570,Dorothy Dickinson,2014-11-20,24,8741.46,2232,3,4,3,10,Loyal Customers
+JL-15850,John Lucas,2014-11-17,22,8497.68,2235,3,4,3,10,Loyal Customers
+CR-12580,Clay Rozendal,2014-12-09,20,8700.31,2213,4,3,3,10,Loyal Customers
+CC-2220,Chris Cortes,2014-12-10,12,4174.18,2212,4,3,3,10,Loyal Customers
+JD-16015,Joy Daniels,2014-11-13,24,8690.63,2239,3,4,3,10,Loyal Customers
+LS-16975,Lindsay Shagiari,2014-12-11,22,8646.92,2211,4,3,3,10,Loyal Customers
+CG-12520,Claire Gute,2014-12-03,18,13545.47,2219,3,3,4,10,Loyal Customers
+AF-870,Art Ferguson,2014-12-26,9,1700.08,2196,5,3,2,10,Loyal Customers
+JE-16165,Justin Ellison,2014-12-11,20,8352.72,2211,4,3,3,10,Loyal Customers
+JL-15505,Jeremy Lonsdale,2014-12-01,22,8631.7,2221,3,4,3,10,Loyal Customers
+TB-11520,Tracy Blumstein,2014-12-13,11,3991.52,2209,4,3,3,10,Loyal Customers
+DH-3675,Duane Huffman,2014-12-11,12,4661.84,2211,4,3,3,10,Loyal Customers
+TB-21595,Troy Blackwell,2014-12-03,26,8437.99,2219,3,4,3,10,Loyal Customers
+MS-17710,Maurice Satty,2014-12-02,26,8500.63,2220,3,4,3,10,Loyal Customers
+EM-13810,Eleni McCrary,2014-10-14,23,13549.73,2269,2,4,4,10,Loyal Customers
+AG-10525,Andy Gerbode,2014-12-19,20,8468.96,2203,4,3,3,10,Loyal Customers
+SS-20875,Sung Shariari,2014-12-17,21,4772.15,2205,4,3,3,10,Loyal Customers
+EL-13735,Ed Ludwig,2014-11-08,23,10515.86,2244,2,4,4,10,Loyal Customers
+LS-16945,Linda Southworth,2014-12-04,20,10420.12,2218,3,3,4,10,Loyal Customers
+MA-17560,Matt Abelman,2014-10-28,24,10813.79,2255,2,4,4,10,Loyal Customers
+TC-11145,Theresa Coyne,2014-12-19,10,3799.93,2203,4,3,3,10,Loyal Customers
+JK-15205,Jamie Kunitz,2014-10-31,24,10917,2252,2,4,4,10,Loyal Customers
+JO-15145,Jack O'Briant,2014-11-04,23,10440.98,2248,2,4,4,10,Loyal Customers
+GH-14485,Gene Hale,2014-11-10,21,14692.67,2242,2,3,5,10,Loyal Customers
+NG-8430,Nathan Gelder,2014-12-13,8,3749.83,2209,4,3,3,10,Loyal Customers
+DV-13465,Dianna Vittorini,2014-12-02,20,12910.88,2220,3,3,4,10,Loyal Customers
+SN-20560,Skye Norling,2014-10-21,25,12738.71,2262,2,4,4,10,Loyal Customers
+JK-16120,Julie Kriz,2014-09-25,26,13134.72,2288,2,4,4,10,Loyal Customers
+AG-10675,Anna Gayman,2014-11-14,21,13023.84,2238,3,3,4,10,Loyal Customers
+MC-17605,Matt Connell,2014-11-12,26,13019.2,2240,2,4,4,10,Loyal Customers
+SP-20860,Sung Pak,2014-11-07,26,12994.59,2245,2,4,4,10,Loyal Customers
+TZ-21580,Tracy Zic,2014-11-26,19,10455.53,2226,3,3,4,10,Loyal Customers
+LP-17080,Liz Pelletier,2014-11-21,24,7631.99,2231,3,4,3,10,Loyal Customers
+RE-19405,Ricardo Emerson,2014-12-03,21,12073.09,2219,3,3,4,10,Loyal Customers
+IL-15100,Ivan Liston,2014-09-06,25,11802.69,2307,2,4,4,10,Loyal Customers
+AH-10195,Alan Haines,2014-11-12,25,12628.19,2240,2,4,4,10,Loyal Customers
+KD-16615,Ken Dana,2014-10-17,24,12348.44,2266,2,4,4,10,Loyal Customers
+CC-12145,Charles Crestani,2014-10-10,24,12190.67,2273,2,4,4,10,Loyal Customers
+MC-7575,Matt Collins,2014-12-22,8,3619.19,2200,5,2,3,10,Loyal Customers
+BF-10975,Barbara Fisher,2014-11-26,22,8104.78,2226,3,4,3,10,Loyal Customers
+NW-18400,Natalie Webber,2014-07-12,26,15326.83,2363,1,4,5,10,Loyal Customers
+CC-12550,Clay Cheatham,2014-12-04,25,7908.65,2218,3,4,3,10,Loyal Customers
+MH-7785,Maya Herman,2014-12-24,9,1914.83,2198,5,3,2,10,Loyal Customers
+CG-12040,Catherine Glotzbach,2014-12-10,19,3596.27,2212,4,3,3,10,Loyal Customers
+EH-13945,Eric Hoffmann,2014-11-04,27,7832.69,2248,2,5,3,10,Loyal Customers
+DH-13675,Duane Huffman,2014-12-10,17,7817.31,2212,4,3,3,10,Loyal Customers
+TS-11370,Todd Sumrall,2014-12-13,10,4573.58,2209,4,3,3,10,Loyal Customers
+HH-15010,Hilary Holden,2014-11-07,24,13731.74,2245,2,4,4,10,Loyal Customers
+KD-16345,Katherine Ducich,2014-11-20,15,11157.04,2232,3,3,4,10,Loyal Customers
+SW-10455,Shaun Weien,2014-12-24,9,2205.25,2198,5,3,2,10,Loyal Customers
+DJ-3510,Don Jones,2014-12-25,7,5976.69,2197,5,2,3,10,Loyal Customers
+JE-15475,Jeremy Ellison,2014-11-26,22,5905.08,2226,3,4,3,10,Loyal Customers
+MC-17590,Matt Collister,2014-11-10,25,10118.84,2242,2,4,4,10,Loyal Customers
+TB-21280,Toby Braunhardt,2014-11-04,26,10127.01,2248,2,4,4,10,Loyal Customers
+EM-13825,Elizabeth Moffitt,2014-11-06,26,14128.08,2246,2,4,4,10,Loyal Customers
+MT-17815,Meg Tillman,2014-11-12,27,13845.52,2240,2,4,4,10,Loyal Customers
+HZ-14950,Henia Zydlo,2014-11-26,22,9656.4,2226,3,4,3,10,Loyal Customers
+GT-4755,Guy Thornton,2014-12-31,8,3457.58,2191,5,2,3,10,Loyal Customers
+AJ-780,Anthony Jacobs,2014-12-30,12,2570.99,2192,5,3,2,10,Loyal Customers
+VG-21790,Vivek Gonzalez,2014-09-12,27,9908.61,2301,2,4,4,10,Loyal Customers
+AH-10120,Adrian Hane,2014-11-01,22,9927.84,2251,2,4,4,10,Loyal Customers
+CK-12325,Christine Kargatis,2014-10-31,27,9927.9,2252,2,4,4,10,Loyal Customers
+MH-17455,Mark Hamilton,2014-11-07,27,9974.27,2245,2,4,4,10,Loyal Customers
+LC-16870,Lena Cacioppo,2014-12-04,21,9859.89,2218,3,3,4,10,Loyal Customers
+SW-20350,Sean Wendt,2014-12-19,21,6923.25,2203,4,3,3,10,Loyal Customers
+MV-8190,Mike Vittorini,2014-12-24,8,3995.04,2198,5,2,3,10,Loyal Customers
+JG-5115,Jack Garza,2014-12-26,9,2907.68,2196,5,3,2,10,Loyal Customers
+PC-19000,Pauline Chand,2014-12-10,18,9474.07,2212,4,3,3,10,Loyal Customers
+LS-6945,Linda Southworth,2014-12-25,12,2726.03,2197,5,3,2,10,Loyal Customers
+JC-5385,Jenna Caffey,2014-12-16,9,3183.08,2206,4,3,3,10,Loyal Customers
+PO-19180,Philisse Overcash,2014-07-24,24,16753.17,2351,1,4,5,10,Loyal Customers
+GT-14635,Grant Thornton,2014-11-05,20,19080.35,2247,2,3,5,10,Loyal Customers
+RB-19705,Roger Barcio,2014-12-15,16,9288.08,2207,4,3,3,10,Loyal Customers
+RD-19930,Russell D'Ascenzo,2014-11-19,22,9293.59,2233,3,4,3,10,Loyal Customers
+KC-16255,Karen Carlisle,2014-11-17,27,9321.96,2235,3,4,3,10,Loyal Customers
+BP-1185,Ben Peterman,2014-12-27,10,1430.62,2195,5,3,2,10,Loyal Customers
+RO-9780,Rose O'Brian,2014-12-27,9,3080.11,2195,5,3,2,10,Loyal Customers
+JM-15535,Jessica Myrick,2014-12-17,20,6942.4,2205,4,3,3,10,Loyal Customers
+TS-21430,Tom Stivers,2014-12-12,22,9532.92,2210,4,3,3,10,Loyal Customers
+EB-13930,Eric Barreto,2014-12-12,18,9533.95,2210,4,3,3,10,Loyal Customers
+ND-8460,Neil Ducich,2014-12-23,10,2722.98,2199,5,3,2,10,Loyal Customers
+IM-15055,Ionia McGrath,2014-12-16,15,5154.84,2206,4,3,3,10,Loyal Customers
+AY-10555,Andy Yotov,2014-12-17,16,5446.61,2205,4,3,3,10,Loyal Customers
+EH-4125,Eugene Hildebrand,2014-12-09,13,5012.22,2213,4,3,3,10,Loyal Customers
+BP-1050,Barry Pond,2014-12-20,9,4981.54,2202,4,3,3,10,Loyal Customers
+EB-3930,Eric Barreto,2014-12-24,9,2433.52,2198,5,3,2,10,Loyal Customers
+GZ-14545,George Zrebassa,2014-10-16,24,11593.73,2267,2,4,4,10,Loyal Customers
+GT-14755,Guy Thornton,2014-11-27,23,5601.71,2225,3,4,3,10,Loyal Customers
+CA-12310,Christine Abelman,2014-12-18,21,7166.23,2204,4,3,3,10,Loyal Customers
+CS-12505,Cindy Stewart,2014-12-04,16,11535.25,2218,3,3,4,10,Loyal Customers
+RS-19870,Roy Skaria,2014-12-12,20,7090.96,2210,4,3,3,10,Loyal Customers
+ZD-11925,Zuschuss Donatelli,2014-12-28,9,2951.23,2194,5,3,2,10,Loyal Customers
+SP-20545,Sibella Parks,2014-12-15,20,6801.2,2207,4,3,3,10,Loyal Customers
+EN-13780,Edward Nazzal,2014-12-17,20,6333.92,2205,4,3,3,10,Loyal Customers
+BS-1800,Bryan Spruell,2014-12-20,9,6364.85,2202,4,3,3,10,Loyal Customers
+AB-10600,Ann Blume,2014-11-11,22,13318.66,2241,2,4,4,10,Loyal Customers
+DR-2880,Dan Reichenbach,2014-12-27,8,2291.46,2195,5,3,2,10,Loyal Customers
+RM-19750,Roland Murray,2014-12-15,19,6475.01,2207,4,3,3,10,Loyal Customers
+PA-19060,Pete Armstrong,2014-12-08,21,6723.23,2214,4,3,3,10,Loyal Customers
+PJ-18835,Patrick Jones,2014-11-22,19,13639.5,2230,3,3,4,10,Loyal Customers
+MS-7830,Melanie Seite,2014-12-27,8,4322.9,2195,5,2,3,10,Loyal Customers
+DS-13030,Darrin Sayre,2014-09-29,26,11644.3,2284,2,4,4,10,Loyal Customers
+MO-7800,Meg O'Connel,2014-12-17,9,4294.27,2205,4,3,3,10,Loyal Customers
+JO-5550,Jesus Ocampo,2014-12-19,9,4203.78,2203,4,3,3,10,Loyal Customers
+CD-12790,Cynthia Delaney,2014-10-16,25,13468.11,2267,2,4,4,10,Loyal Customers
+LD-17005,Lisa DeCherney,2014-11-12,27,11461.65,2240,2,4,4,10,Loyal Customers
+CP-12085,Cathy Prescott,2014-10-23,23,14183.88,2260,2,4,4,10,Loyal Customers
+DK-2835,Damala Kotsonis,2014-12-10,11,3373.14,2212,4,3,3,10,Loyal Customers
+CC-12100,Chad Cunningham,2014-11-10,25,11500.12,2242,2,4,4,10,Loyal Customers
+TM-21010,Tamara Manning,2014-10-28,27,14158.96,2255,2,4,4,10,Loyal Customers
+DH-13075,Dave Hallsten,2014-10-17,25,14128.68,2266,2,4,4,10,Loyal Customers
+JO-15280,Jas O'Carroll,2014-12-17,21,7123.57,2205,4,3,3,10,Loyal Customers
+RK-19300,Ralph Kennedy,2014-10-07,26,13480.92,2276,2,4,4,10,Loyal Customers
+JF-15355,Jay Fein,2014-12-18,22,7343.57,2204,4,3,3,10,Loyal Customers
+EH-13990,Erica Hackney,2014-11-17,26,8807.08,2235,3,4,3,10,Loyal Customers
+RE-9450,Richard Eichhorn,2014-12-16,12,5678.7,2206,4,3,3,10,Loyal Customers
+KH-6330,Katharine Harms,2014-12-12,13,3371.21,2210,4,3,3,10,Loyal Customers
+RF-19345,Randy Ferguson,2014-10-28,27,13391.27,2255,2,4,4,10,Loyal Customers
+LC-7050,Liz Carlisle,2014-12-25,7,7193.65,2197,5,2,3,10,Loyal Customers
+EB-13870,Emily Burns,2014-12-16,19,6850.98,2206,4,3,3,10,Loyal Customers
+TT-11220,Thomas Thornton,2014-12-26,9,1826.4,2196,5,3,2,10,Loyal Customers
+HP-14815,Harold Pawlan,2014-12-01,24,7321.44,2221,3,4,3,10,Loyal Customers
+JD-5895,Jonathan Doherty,2014-12-29,6,2770.43,2193,5,2,2,9,Potential
+DM-2955,Dario Medina,2014-12-19,9,2437.41,2203,4,3,2,9,Potential
+DO-3435,Denny Ordway,2014-11-25,10,3515.73,2227,3,3,3,9,Potential
+PB-9150,Philip Brown,2014-11-20,10,3478.44,2232,3,3,3,9,Potential
+EB-4110,Eugene Barchas,2014-12-11,10,2417.76,2211,4,3,2,9,Potential
+KB-6315,Karl Braun,2014-12-09,11,2957.72,2213,4,3,2,9,Potential
+AC-420,Alyssa Crouse,2014-12-18,9,1689.68,2204,4,3,2,9,Potential
+VD-11670,Valerie Dominguez,2014-12-31,9,1230.05,2191,5,3,1,9,Potential
+ME-7320,Maria Etezadi,2014-12-11,10,1720.19,2211,4,3,2,9,Potential
+RD-9660,Robert Dilbeck,2014-12-04,9,3391.79,2218,3,3,3,9,Potential
+KT-16480,Kean Thornton,2014-12-04,20,6240.65,2218,3,3,3,9,Potential
+EK-13795,Eileen Kiefer,2014-11-17,17,5597.35,2235,3,3,3,9,Potential
+CH-12070,Cathy Hwang,2014-10-03,21,11122.56,2280,2,3,4,9,Potential
+JH-6180,Justin Hirsh,2014-12-04,9,5651.9,2218,3,3,3,9,Potential
+JG-5160,James Galang,2014-12-15,8,1588.12,2207,4,3,2,9,Potential
+JS-5940,Joni Sundaresam,2014-12-08,13,2927.34,2214,4,3,2,9,Potential
+RW-9540,Rick Wilson,2014-12-05,7,5698.43,2217,4,2,3,9,Potential
+JO-5145,Jack O'Briant,2014-12-26,6,2904.71,2196,5,2,2,9,Potential
+CD-1980,Carol Darley,2014-12-25,7,1380.23,2197,5,2,2,9,Potential
+CR-2730,Craig Reiter,2014-12-26,11,1359.58,2196,5,3,1,9,Potential
+IM-5055,Ionia McGrath,2014-12-12,7,4324.95,2210,4,2,3,9,Potential
+JB-6045,Julia Barnett,2014-12-03,10,3235.66,2219,3,3,3,9,Potential
+TG-11640,Trudy Glocke,2014-12-01,9,4906.53,2221,3,3,3,9,Potential
+KS-16300,Karen Seio,2014-11-26,21,5103.36,2226,3,3,3,9,Potential
+JD-6150,Justin Deggeller,2014-12-10,6,5329.77,2212,4,2,3,9,Potential
+LW-17125,Liz Willingham,2014-11-20,16,5369.27,2232,3,3,3,9,Potential
+TS-21085,Thais Sissman,2014-11-20,19,5395.21,2232,3,3,3,9,Potential
+AB-600,Ann Blume,2014-12-24,5,5408.55,2198,5,1,3,9,Potential
+CK-2325,Christine Kargatis,2014-12-31,8,3125.3,2191,5,2,2,9,Potential
+SC-10305,Sean Christensen,2014-12-15,7,3207.18,2207,4,2,3,9,Potential
+PT-9090,Pete Takahito,2014-12-29,5,4686.03,2193,5,1,3,9,Potential
+RA-9945,Ryan Akin,2014-12-11,9,2044.59,2211,4,3,2,9,Potential
+DB-3060,Dave Brooks,2014-12-23,8,2070.26,2199,5,2,2,9,Potential
+EL-3735,Ed Ludwig,2014-12-05,11,3691.39,2217,3,3,3,9,Potential
+LW-6990,Lindsay Williams,2014-12-17,11,1869.77,2205,4,3,2,9,Potential
+LL-6840,Lauren Leatherbury,2014-11-26,9,3649.15,2226,3,3,3,9,Potential
+BD-1320,Bill Donatelli,2014-12-26,6,1885.05,2196,5,2,2,9,Potential
+GH-4665,Greg Hansen,2014-12-30,9,1077.07,2192,5,3,1,9,Potential
+MA-7995,Michelle Arnett,2014-12-15,11,1928.01,2207,4,3,2,9,Potential
+DV-3045,Darrin Van Huff,2014-11-28,13,4640.32,2224,3,3,3,9,Potential
+FM-4290,Frank Merwin,2014-12-29,8,2002.71,2193,5,2,2,9,Potential
+TA-11385,Tom Ashbrook,2014-12-23,5,4819.95,2199,5,1,3,9,Potential
+MB-7305,Maria Bertelson,2014-12-09,8,4874.59,2213,4,2,3,9,Potential
+DP-3165,David Philippe,2014-12-24,6,1517.95,2198,5,2,2,9,Potential
+CK-2760,Cyma Kinney,2014-11-24,12,4015.95,2228,3,3,3,9,Potential
+RF-9345,Randy Ferguson,2014-12-25,5,3208.03,2197,5,1,3,9,Potential
+NM-8445,Nathan Mautz,2014-11-28,9,4053.72,2224,3,3,3,9,Potential
+MY-8295,Muhammed Yedwab,2014-11-18,10,4072.17,2234,3,3,3,9,Potential
+DC-2850,Dan Campbell,2014-11-27,9,4131.14,2225,3,3,3,9,Potential
+MG-8205,Mitch Gastineau,2014-12-30,7,1648.94,2192,5,2,2,9,Potential
+SJ-20500,Shirley Jackson,2014-07-09,26,12930.79,2366,1,4,4,9,Potential
+RM-9375,Raymond Messe,2014-12-22,7,2239.45,2200,5,2,2,9,Potential
+SS-10410,Shahid Shariari,2014-12-05,10,2348.46,2217,4,3,2,9,Potential
+GM-4440,Gary McGarr,2014-12-30,8,735.22,2192,5,3,1,9,Potential
+AS-10630,Ann Steele,2014-11-26,19,9815.94,2226,3,3,3,9,Potential
+RC-19825,Roy Collins,2014-09-04,25,7916.67,2309,2,4,3,9,Potential
+JJ-15445,Jennifer Jackson,2014-11-28,19,9696.85,2224,3,3,3,9,Potential
+LH-17020,Lisa Hazard,2014-11-20,18,8189.79,2232,3,3,3,9,Potential
+JF-5415,Jennifer Ferguson,2014-11-24,11,8227.02,2228,3,3,3,9,Potential
+CM-11935,Carlos Meador,2014-11-25,18,9689.01,2227,3,3,3,9,Potential
+ER-13855,Elpida Rittenbach,2014-10-23,19,13396,2260,2,3,4,9,Potential
+RD-19660,Robert Dilbeck,2014-09-29,21,12947.97,2284,2,3,4,9,Potential
+CC-12685,Craig Carroll,2014-11-07,20,12798.54,2245,2,3,4,9,Potential
+NC-18415,Nathan Cano,2014-11-22,19,9255.79,2230,3,3,3,9,Potential
+JG-15115,Jack Garza,2014-10-24,19,12801.83,2259,2,3,4,9,Potential
+PO-19195,Phillina Ober,2014-10-06,21,10872.01,2277,2,3,4,9,Potential
+MT-18070,Michelle Tran,2014-08-26,24,10920.4,2318,1,4,4,9,Potential
+TB-21190,Thomas Brumley,2014-11-12,17,10686.47,2240,2,3,4,9,Potential
+CS-11860,Cari Schnelling,2014-10-15,21,10555.92,2268,2,3,4,9,Potential
+DL-12925,Daniel Lacy,2014-11-04,21,11364.68,2248,2,3,4,9,Potential
+MC-18130,Mike Caudle,2014-11-10,23,8532.7,2242,2,4,3,9,Potential
+LO-7170,Lori Olson,2014-12-27,7,2281.19,2195,5,2,2,9,Potential
+SM-20905,Susan MacKendrick,2014-11-24,17,6918.48,2228,3,3,3,9,Potential
+SF-20965,Sylvia Foulston,2014-11-13,17,6777.68,2239,3,3,3,9,Potential
+AA-315,Alex Avila,2014-12-29,7,2243.26,2193,5,2,2,9,Potential
+CM-12715,Craig Molinari,2014-11-20,19,8392.58,2232,3,3,3,9,Potential
+GM-14500,Gene McClure,2014-09-16,23,6704.19,2297,2,4,3,9,Potential
+CK-12760,Cyma Kinney,2014-11-04,26,6574.8,2248,2,4,3,9,Potential
+EB-13750,Edward Becker,2014-11-29,20,8489.99,2223,3,3,3,9,Potential
+RD-9930,Russell D'Ascenzo,2014-12-03,11,6523.39,2219,3,3,3,9,Potential
+NP-18670,Nora Paige,2014-11-03,19,12839.01,2249,2,3,4,9,Potential
+SA-10830,Sue Ann Reed,2014-12-21,10,872.68,2201,5,3,1,9,Potential
+LM-7065,Liz MacKendrick,2014-12-24,4,6280.47,2198,5,1,3,9,Potential
+AJ-10960,Astrea Jones,2014-11-13,17,8633.59,2239,3,3,3,9,Potential
+RH-9555,Ritsa Hightower,2014-12-05,8,8753.47,2217,4,2,3,9,Potential
+JH-5430,Jennifer Halladay,2014-12-24,9,883.48,2198,5,3,1,9,Potential
+FC-14335,Fred Chung,2014-09-15,23,8770.74,2298,2,4,3,9,Potential
+AS-10135,Adrian Shami,2014-11-20,19,7307.24,2232,3,3,3,9,Potential
+JM-16195,Justin MacKendrick,2014-11-04,25,7825.56,2248,2,4,3,9,Potential
+BD-11620,Brian DeCherney,2014-11-12,25,7849,2240,2,4,3,9,Potential
+DB-13555,Dorothy Badders,2014-11-25,22,9415.22,2227,3,3,3,9,Potential
+RW-19630,Rob Williams,2014-10-15,26,9425.92,2268,2,4,3,9,Potential
+GR-14560,Georgia Rosenberg,2014-11-12,24,8895.06,2240,2,4,3,9,Potential
+NH-8610,Nicole Hansen,2014-12-26,6,2121.52,2196,5,2,2,9,Potential
+AR-10405,Allen Rosenblatt,2014-11-07,22,8956.82,2245,2,4,3,9,Potential
+AJ-10795,Anthony Johnson,2014-10-30,22,8887.08,2253,2,4,3,9,Potential
+BO-1425,Bobby Odegard,2014-12-30,8,2671.26,2192,5,2,2,9,Potential
+AJ-795,Anthony Johnson,2014-11-25,10,3395.58,2227,3,3,3,9,Potential
+EJ-13720,Ed Jacobs,2014-11-12,22,8969.44,2240,2,4,3,9,Potential
+TS-21655,Trudy Schmidt,2014-10-08,24,9525.46,2275,2,4,3,9,Potential
+KB-6600,Ken Brennan,2014-12-22,11,1167.74,2200,5,3,1,9,Potential
+FG-14260,Frank Gastineau,2014-11-27,18,9396.51,2225,3,3,3,9,Potential
+DM-3015,Darrin Martin,2014-12-29,6,2105.79,2193,5,2,2,9,Potential
+AZ-750,Annie Zypern,2014-12-05,10,2231.28,2217,4,3,2,9,Potential
+AA-10480,Andrew Allen,2014-08-28,20,17695.59,2316,1,3,5,9,Potential
+DM-13525,Don Miller,2014-11-26,19,9640.38,2226,3,3,3,9,Potential
+ML-8265,Muhammed Lee,2014-12-23,9,1170.72,2199,5,3,1,9,Potential
+CV-12295,Christina VanderZanden,2014-11-22,20,9042.27,2230,3,3,3,9,Potential
+ME-7725,Max Engle,2014-12-20,11,2083.88,2202,4,3,2,9,Potential
+DP-3000,Darren Powers,2014-12-17,10,2093.61,2205,4,3,2,9,Potential
+NG-18355,Nat Gilpin,2014-11-13,21,9262.73,2239,3,3,3,9,Potential
+HR-14830,Harold Ryan,2014-11-10,21,9637.15,2242,2,3,3,8,Potential
+LC-6930,Linda Cazamias,2014-10-21,9,5080.69,2262,2,3,3,8,Potential
+JP-6135,Julie Prescott,2014-12-05,8,4432.65,2217,3,2,3,8,Potential
+SF-20065,Sandra Flanagan,2014-11-03,21,7395.75,2249,2,3,3,8,Potential
+AB-165,Alan Barnes,2014-12-15,6,1399.78,2207,4,2,2,8,Potential
+EC-14050,Erin Creighton,2014-11-08,19,4430.24,2244,2,3,3,8,Potential
+AY-555,Andy Yotov,2014-11-26,11,3096.42,2226,3,3,2,8,Potential
+EG-3900,Emily Grady,2014-11-10,11,6549.95,2242,2,3,3,8,Potential
+KF-6285,Karen Ferguson,2014-11-29,9,3100.15,2223,3,3,2,8,Potential
+MG-7680,Maureen Gastineau,2014-10-18,9,4298.48,2265,2,3,3,8,Potential
+EM-4065,Erin Mull,2014-11-09,9,3213.25,2243,2,3,3,8,Potential
+MS-7980,Michael Stewart,2014-12-25,5,1654.64,2197,5,1,2,8,Potential
+LC-7140,Logan Currie,2014-12-15,6,2954.43,2207,4,2,2,8,Potential
+JR-5700,Jocasta Rupert,2014-12-18,6,1673.16,2204,4,2,2,8,Potential
+MZ-7515,Mary Zewe,2014-10-14,9,3193.16,2269,2,3,3,8,Potential
+TW-11025,Tamara Willingham,2014-12-12,8,323.11,2210,4,3,1,8,Potential
+SM-20005,Sally Matthias,2014-08-06,22,6801.59,2338,1,4,3,8,Potential
+BD-1725,Bruce Degenhardt,2014-09-22,13,5078.4,2291,2,3,3,8,Potential
+TC-10980,Tamara Chand,2014-11-14,8,3239.06,2238,3,2,3,8,Potential
+BN-1470,Brad Norvell,2014-12-09,7,2823.85,2213,4,2,2,8,Potential
+BD-11605,Brian Dahlen,2014-09-25,19,9202.66,2288,2,3,3,8,Potential
+TB-21355,Todd Boyes,2014-11-07,20,9205.11,2245,2,3,3,8,Potential
+AG-525,Andy Gerbode,2014-12-16,7,2870.68,2206,4,2,2,8,Potential
+YS-11880,Yana Sorensen,2014-12-27,6,1328.83,2195,5,2,1,8,Potential
+LM-17065,Liz MacKendrick,2014-10-08,18,9249.38,2275,2,3,3,8,Potential
+EB-3975,Erica Bern,2014-11-26,9,2713.62,2226,3,3,2,8,Potential
+AS-285,Alejandro Savely,2014-09-23,13,4938.46,2290,2,3,3,8,Potential
+RB-19645,Robert Barroso,2014-08-03,22,5973.59,2341,1,4,3,8,Potential
+BW-1065,Barry Weirich,2014-12-09,5,9027.48,2213,4,1,3,8,Potential
+TT-11265,Tim Taslimi,2014-09-28,9,5049.04,2285,2,3,3,8,Potential
+CS-1845,Cari Sayre,2014-12-07,8,1593.31,2215,4,2,2,8,Potential
+KN-16705,Kristina Nunn,2014-09-24,19,5884.78,2289,2,3,3,8,Potential
+DP-3390,Dennis Pardue,2014-12-19,6,1376.13,2203,4,2,2,8,Potential
+VS-21820,Vivek Sundaresam,2014-08-15,15,10275.78,2329,1,3,4,8,Potential
+SN-10560,Skye Norling,2014-12-18,6,1480.1,2204,4,2,2,8,Potential
+HG-5025,Hunter Glantz,2014-12-08,7,1476.61,2214,4,2,2,8,Potential
+PF-9225,Phillip Flathmann,2014-12-17,7,1474.27,2205,4,2,2,8,Potential
+DW-3480,Dianna Wilson,2014-11-06,12,7118.11,2246,2,3,3,8,Potential
+KL-6645,Ken Lonsdale,2014-12-31,5,1576.3,2191,5,1,2,8,Potential
+RD-9585,Rob Dowd,2014-11-26,7,5168.4,2226,3,2,3,8,Potential
+PH-18790,Patricia Hirasaki,2014-11-04,19,9435.57,2248,2,3,3,8,Potential
+AZ-10750,Annie Zypern,2014-10-22,18,9639.8,2261,2,3,3,8,Potential
+PK-18910,Paul Knutson,2014-09-24,16,7282.58,2289,2,3,3,8,Potential
+FW-4395,Fred Wasserman,2014-12-31,8,1220.81,2191,5,2,1,8,Potential
+PO-9195,Phillina Ober,2014-11-28,8,8227.36,2224,3,2,3,8,Potential
+BE-1410,Bobby Elias,2014-12-10,7,1859.86,2212,4,2,2,8,Potential
+BM-1140,Becky Martin,2014-12-18,6,1857.69,2204,4,2,2,8,Potential
+MH-8025,Michelle Huthwaite,2014-12-17,9,1095.43,2205,4,3,1,8,Potential
+GZ-4545,George Zrebassa,2014-12-01,6,3698.39,2221,3,2,3,8,Potential
+AS-630,Ann Steele,2014-11-28,11,2000.01,2224,3,3,2,8,Potential
+MB-8085,Mick Brown,2014-12-20,8,1703.51,2202,4,2,2,8,Potential
+BF-975,Barbara Fisher,2014-12-09,8,1730.23,2213,4,2,2,8,Potential
+DK-3375,Dennis Kane,2014-09-05,10,3846.78,2308,2,3,3,8,Potential
+BM-1575,Brendan Murry,2014-11-21,9,1703.98,2231,3,3,2,8,Potential
+GW-4605,Giulietta Weimer,2014-12-17,8,1830.79,2205,4,2,2,8,Potential
+PB-9105,Peter Bühler,2014-12-31,4,1808.21,2191,5,1,2,8,Potential
+SU-10665,Stephanie Ulpright,2014-11-13,6,3331.13,2239,3,2,3,8,Potential
+AB-60,Adam Bellavance,2014-11-26,9,1770.23,2226,3,3,2,8,Potential
+DV-3465,Dianna Vittorini,2014-12-18,5,4037.82,2204,4,1,3,8,Potential
+AS-225,Alan Schoenberger,2014-12-29,7,469.52,2193,5,2,1,8,Potential
+JL-5235,Janet Lee,2014-12-30,4,1751.71,2192,5,1,2,8,Potential
+FM-4380,Fred McMath,2014-12-30,6,843.54,2192,5,2,1,8,Potential
+AG-330,Alex Grayson,2014-12-29,7,532.54,2193,5,2,1,8,Potential
+JJ-5445,Jennifer Jackson,2014-12-12,6,2490.2,2210,4,2,2,8,Potential
+JM-5250,Janet Martin,2014-12-25,5,2424.2,2197,5,1,2,8,Potential
+JF-5355,Jay Fein,2014-09-26,9,3475.76,2287,2,3,3,8,Potential
+LW-7125,Liz Willingham,2014-11-28,9,2677.34,2224,3,3,2,8,Potential
+SS-10140,Saphhira Shifley,2014-12-02,7,3491.63,2220,3,2,3,8,Potential
+MM-8280,Muhammed MacIntyre,2014-10-21,10,3586.7,2262,2,3,3,8,Potential
+AG-270,Alejandro Grove,2014-12-18,8,2779.81,2204,4,2,2,8,Potential
+GT-4635,Grant Thornton,2014-12-22,7,1145.01,2200,5,2,1,8,Potential
+MK-8160,Mike Kennedy,2014-11-21,10,2697.07,2231,3,3,2,8,Potential
+NC-8340,Nat Carroll,2014-11-26,9,2707.96,2226,3,3,2,8,Potential
+RD-9900,Ruben Dartt,2014-09-30,10,4837.22,2283,2,3,3,8,Potential
+BH-1710,Brosina Hoffman,2014-09-29,10,4583.29,2284,2,3,3,8,Potential
+DG-3300,Deirdre Greer,2014-12-17,6,2982.31,2205,4,2,2,8,Potential
+AB-255,Alejandro Ballentine,2014-11-18,8,4679.5,2234,3,2,3,8,Potential
+KH-6510,Keith Herrera,2014-12-16,7,1544.34,2206,4,2,2,8,Potential
+AH-10465,Amy Hunt,2014-10-22,20,8547.83,2261,2,3,3,8,Potential
+MH-7455,Mark Hamilton,2014-09-30,10,4747.37,2283,2,3,3,8,Potential
+BO-11350,Bill Overfelt,2014-09-11,20,7476.25,2302,2,3,3,8,Potential
+CM-1830,Cari MacIntyre,2014-09-09,13,4777.41,2304,2,3,3,8,Potential
+MW-8235,Mitch Willingham,2014-12-31,6,1070.77,2191,5,2,1,8,Potential
+SV-10785,Stewart Visinsky,2014-12-10,7,2969.43,2212,4,2,2,8,Potential
+AG-10390,Allen Goldenen,2014-09-08,19,8453.01,2305,2,3,3,8,Potential
+BW-11065,Barry Weirich,2014-11-11,18,8409.06,2241,2,3,3,8,Potential
+BT-11440,Bobby Trafton,2014-11-10,21,8263.98,2242,2,3,3,8,Potential
+JO-15550,Jesus Ocampo,2014-10-21,19,4002.89,2262,2,3,3,8,Potential
+JH-5910,Jonathan Howell,2014-11-21,8,4013.99,2231,3,2,3,8,Potential
+BM-1785,Bryan Mills,2014-11-13,9,2244.34,2239,3,3,2,8,Potential
+JD-16060,Julia Dunbar,2014-10-27,19,7683.04,2256,2,3,3,8,Potential
+PB-19105,Peter Bühler,2014-11-04,16,8087.78,2248,2,3,3,8,Potential
+NR-8550,Nick Radford,2014-12-17,8,1898.48,2205,4,2,2,8,Potential
+AH-75,Adam Hart,2014-11-24,8,3608.34,2228,3,2,3,8,Potential
+JE-6165,Justin Ellison,2014-11-25,8,4555.72,2227,3,2,3,8,Potential
+JA-5970,Joseph Airdo,2014-12-31,7,1057.23,2191,5,2,1,8,Potential
+CS-2250,Chris Selesnick,2014-12-29,4,1917.62,2193,5,1,2,8,Potential
+AD-180,Alan Dominguez,2014-12-26,3,681.29,2196,5,1,1,7,Potential
+JD-6015,Joy Daniels,2014-11-19,8,2652.78,2233,3,2,2,7,Potential
+EH-4185,Evan Henry,2014-09-01,8,3577.77,2312,2,2,3,7,Potential
+VB-11745,Victoria Brennan,2014-12-27,4,783.63,2195,5,1,1,7,Potential
+JD-6060,Julia Dunbar,2014-08-13,9,3541.44,2331,1,3,3,7,Potential
+CC-2475,Cindy Chapman,2014-11-06,7,3709.88,2246,2,2,3,7,Potential
+VM-11685,Valerie Mitchum,2014-12-18,6,858.98,2204,4,2,1,7,Potential
+JM-5655,Jim Mitchum,2014-08-31,8,3602.67,2313,2,2,3,7,Potential
+BO-1350,Bill Overfelt,2014-12-10,6,616.24,2212,4,2,1,7,Potential
+RD-9720,Roger Demir,2014-11-03,8,3833.71,2249,2,2,3,7,Potential
+JP-5460,Jennifer Patt,2014-06-26,10,3294.02,2379,1,3,3,7,Potential
+BD-1620,Brian DeCherney,2014-09-05,11,2919.6,2308,2,3,2,7,Potential
+JL-5835,John Lee,2014-11-07,7,3388.28,2245,2,2,3,7,Potential
+Dp-3240,Dean percer,2014-12-06,7,609.3,2216,4,2,1,7,Potential
+CA-2265,Christina Anderson,2014-09-17,7,3364.64,2296,2,2,3,7,Potential
+MH-7440,Mark Haberlin,2014-09-26,8,3357.78,2287,2,2,3,7,Potential
+TH-11235,Tiffany House,2014-05-15,10,3901.35,2421,1,3,3,7,Potential
+JC-6105,Julie Creighton,2014-09-20,6,3914.94,2293,2,2,3,7,Potential
+LW-6825,Laurel Workman,2014-11-29,11,881.75,2223,3,3,1,7,Potential
+RD-9810,Ross DeVincentis,2014-11-08,7,3214.79,2244,2,2,3,7,Potential
+ER-3855,Elpida Rittenbach,2014-11-08,7,3736.3,2244,2,2,3,7,Potential
+HD-4785,Harold Dahlen,2014-09-16,7,3325.61,2297,2,2,3,7,Potential
+CL-2565,Clay Ludtke,2014-11-19,6,2775.64,2233,3,2,2,7,Potential
+EB-3840,Ellis Ballard,2014-11-18,6,1797.74,2234,3,2,2,7,Potential
+NS-8640,Noel Staavos,2014-11-14,8,1771.44,2238,3,2,2,7,Potential
+BP-1095,Bart Pistole,2014-12-20,6,1759.67,2202,4,1,2,7,Potential
+DL-3315,Delfina Latchford,2014-11-14,6,1746.87,2238,3,2,2,7,Potential
+AR-510,Andrew Roberts,2014-09-18,10,2638.64,2295,2,3,2,7,Potential
+EJ-4155,Eva Jacobs,2014-12-09,5,2631.99,2213,4,1,2,7,Potential
+VM-21835,Vivian Mathis,2014-09-11,20,2621.82,2302,2,3,2,7,Potential
+BN-1515,Bradley Nguyen,2014-12-04,8,2606.8,2218,3,2,2,7,Potential
+KW-6570,Kelly Williams,2014-11-13,6,2577.72,2239,3,2,2,7,Potential
+EH-3945,Eric Hoffmann,2014-09-11,9,2518.74,2302,2,3,2,7,Potential
+MW-8220,Mitch Webber,2014-11-17,8,2476.5,2235,3,2,2,7,Potential
+Dl-3600,Dorris liebe,2014-09-11,10,2809.06,2302,2,3,2,7,Potential
+BT-1485,Brad Thomas,2014-09-25,9,2803.97,2288,2,3,2,7,Potential
+ND-8370,Natalie DeCherney,2014-11-28,6,2790.23,2224,3,2,2,7,Potential
+PB-8805,Patrick Bzostek,2014-09-02,9,2787.67,2311,2,3,2,7,Potential
+DN-3690,Duane Noonan,2014-12-19,5,1815.95,2203,4,1,2,7,Potential
+DE-3255,Deanra Eno,2014-11-13,8,2714.49,2239,3,2,2,7,Potential
+LR-7035,Lisa Ryan,2014-09-16,9,2677.98,2297,2,3,2,7,Potential
+AB-105,Adrian Barton,2014-11-18,7,2156.4,2234,3,2,2,7,Potential
+DA-3450,Dianna Arnett,2014-12-17,4,2212.05,2205,4,1,2,7,Potential
+MN-7935,Michael Nguyen,2014-12-01,6,2175.33,2221,3,2,2,7,Potential
+FO-4305,Frank Olsen,2014-11-10,10,2158.45,2242,2,3,2,7,Potential
+SR-10740,Steven Roelle,2014-12-10,4,2154.12,2212,4,1,2,7,Potential
+BT-1440,Bobby Trafton,2014-09-29,10,2132.57,2284,2,3,2,7,Potential
+DR-2940,Daniel Raglin,2014-11-22,8,2288.4,2230,3,2,2,7,Potential
+CS-2400,Christopher Schild,2014-12-20,5,2293.17,2202,4,1,2,7,Potential
+SC-10050,Sample Company A,2014-11-19,7,2311.85,2233,3,2,2,7,Potential
+SW-10755,Steven Ward,2014-11-18,7,2346.91,2234,3,2,2,7,Potential
+SK-9990,Sally Knutson,2014-12-01,7,2358.86,2221,3,2,2,7,Potential
+JH-5820,John Huston,2014-11-19,7,2359.01,2233,3,2,2,7,Potential
+AH-585,Angele Hood,2014-10-17,9,2232.22,2266,2,3,2,7,Potential
+CM-2115,Chad McGuire,2014-12-11,3,1907.37,2211,4,1,2,7,Potential
+CR-2625,Corey Roper,2014-08-14,9,5079.9,2330,1,3,3,7,Potential
+TS-11430,Tom Stivers,2014-09-04,7,5812.08,2309,2,2,3,7,Potential
+RA-9285,Ralph Arnett,2014-04-21,14,6226.69,2445,1,3,3,7,Potential
+BP-1230,Benjamin Patterson,2014-10-09,8,6134.99,2274,2,2,3,7,Potential
+RB-9705,Roger Barcio,2014-08-04,12,6018.07,2340,1,3,3,7,Potential
+NB-18580,Nicole Brennan,2013-10-05,10,4875.6,2643,1,3,3,7,Potential
+JL-5130,Jack Lebron,2014-06-17,12,5765.4,2388,1,3,3,7,Potential
+BD-1635,Brian Derr,2014-02-10,9,5689.26,2515,1,3,3,7,Potential
+CP-2085,Cathy Prescott,2014-08-11,10,5585.7,2333,1,3,3,7,Potential
+RB-9330,Randy Bradley,2014-09-10,8,4538.26,2303,2,2,3,7,Potential
+SM-10320,Sean Miller,2014-10-16,7,4045.64,2267,2,2,3,7,Potential
+AJ-945,Ashley Jarboe,2014-09-18,7,4860.92,2295,2,2,3,7,Potential
+AJ-960,Astrea Jones,2014-03-12,10,4629.16,2485,1,3,3,7,Potential
+ES-4020,Erica Smith,2014-12-03,7,1892.78,2219,3,2,2,7,Potential
+MM-8055,Michelle Moray,2014-11-28,8,1924.91,2224,3,2,2,7,Potential
+TB-11400,Tom Boeckenhauer,2014-09-11,9,3103.32,2302,2,3,2,7,Potential
+SW-10245,Scot Wooten,2014-12-09,4,1901.91,2213,4,1,2,7,Potential
+PF-9120,Peter Fuller,2014-10-09,10,1882.95,2274,2,3,2,7,Potential
+NP-8700,Nora Preis,2014-11-24,6,1880.62,2228,3,2,2,7,Potential
+PF-9165,Philip Fox,2014-11-27,7,2007.64,2225,3,2,2,7,Potential
+AR-570,Anemone Ratner,2014-10-22,9,2044.28,2261,2,3,2,7,Potential
+AR-825,Anthony Rawles,2014-11-28,7,2028.91,2224,3,2,2,7,Potential
+NF-8475,Neil Französisch,2014-11-18,7,2019.01,2234,3,2,2,7,Potential
+PG-8820,Patrick Gardner,2014-12-01,6,1846.56,2221,3,2,2,7,Potential
+AA-645,Anna Andreadi,2014-11-10,11,1968.32,2242,2,3,2,7,Potential
+RM-9675,Robert Marley,2014-11-25,8,1715.09,2227,3,2,2,7,Potential
+JC-5775,John Castell,2014-12-18,5,1712.49,2204,4,1,2,7,Potential
+AG-900,Arthur Gainer,2014-12-08,4,1699.47,2214,4,1,2,7,Potential
+JO-5280,Jas O'Carroll,2014-12-12,4,1694.85,2210,4,1,2,7,Potential
+ML-8040,Michelle Lonsdale,2014-11-17,7,1690.9,2235,3,2,2,7,Potential
+CB-2025,Cassandra Brandow,2014-12-09,5,1840.89,2213,4,1,2,7,Potential
+PM-8940,Paul MacIntyre,2014-11-06,9,1448.86,2246,2,3,2,7,Potential
+SB-10170,Sarah Bern,2014-12-05,5,1647.24,2217,4,1,2,7,Potential
+DS-3030,Darrin Sayre,2014-11-13,6,1636.51,2239,3,2,2,7,Potential
+DB-12970,Darren Budd,2014-05-28,11,9166.21,2408,1,3,3,7,Potential
+CS-1860,Cari Schnelling,2014-11-11,9,1618.67,2241,2,3,2,7,Potential
+CD-2280,Christina DeMoss,2014-12-19,7,1205.04,2203,4,2,1,7,Potential
+JM-6195,Justin MacKendrick,2014-12-19,8,1200.49,2203,4,2,1,7,Potential
+DK-3150,David Kendrick,2014-11-04,14,1577.87,2248,2,3,2,7,Potential
+CB-2535,Claudia Bergmann,2014-12-24,2,147.12,2198,5,1,1,7,Potential
+CM-2655,Corinna Mitchell,2014-11-11,12,1389.83,2241,2,3,2,7,Potential
+LT-6765,Larry Tron,2014-12-23,4,1365.33,2199,5,1,1,7,Potential
+NP-8325,Naresj Patel,2014-12-16,8,1336.69,2206,4,2,1,7,Potential
+VS-11820,Vivek Sundaresam,2014-12-09,7,1136.21,2213,4,2,1,7,Potential
+BT-1305,Beth Thompson,2014-11-30,10,1305.96,2222,3,3,1,7,Potential
+AH-120,Adrian Hane,2014-12-10,4,1478.08,2212,4,1,2,7,Potential
+SH-9975,Sally Hughsby,2014-10-28,8,8058.15,2255,2,2,3,7,Potential
+VW-11775,Victoria Wilson,2014-12-24,5,1253.17,2198,5,1,1,7,Potential
+CJ-1875,Carl Jackson,2014-11-29,6,1431.43,2223,3,2,2,7,Potential
+AT-435,Alyssa Tate,2014-12-03,12,1287.99,2219,3,3,1,7,Potential
+DJ-3420,Denny Joy,2014-12-30,4,419.64,2192,5,1,1,7,Potential
+VM-11835,Vivian Mathis,2014-12-23,3,1270.41,2199,5,1,1,7,Potential
+DB-3555,Dorothy Badders,2014-12-26,3,971.11,2196,5,1,1,7,Potential
+AO-810,Anthony O'Donnell,2014-12-24,5,485.01,2198,5,1,1,7,Potential
+AG-495,Andrew Gjertsen,2014-11-13,11,1003.99,2239,3,3,1,7,Potential
+TB-11355,Todd Boyes,2014-12-17,8,438.16,2205,4,2,1,7,Potential
+PO-9180,Philisse Overcash,2014-12-02,9,1231.07,2220,3,3,1,7,Potential
+LC-6870,Lena Cacioppo,2014-12-08,8,1220.45,2214,4,2,1,7,Potential
+LP-7095,Liz Preis,2014-12-31,4,1011.36,2191,5,1,1,7,Potential
+JB-5925,Joni Blumstein,2014-12-09,8,1012.09,2213,4,2,1,7,Potential
+TT-11460,Tonja Turnell,2014-11-19,8,1649.78,2233,3,2,2,7,Potential
+SM-10005,Sally Matthias,2014-09-18,8,6262.38,2295,2,2,3,7,Potential
+RS-9870,Roy Skaria,2014-12-11,8,1031.44,2211,4,2,1,7,Potential
+JW-5220,Jane Waco,2014-09-22,6,7184.72,2291,2,2,3,7,Potential
+NW-8400,Natalie Webber,2014-09-05,7,7046.74,2308,2,2,3,7,Potential
+FM-14380,Fred McMath,2014-08-08,21,6598.4,2336,1,3,3,7,Potential
+LT-7110,Liz Thompson,2014-11-06,6,8234.99,2246,2,2,3,7,Potential
+DP-3105,Dave Poirier,2014-10-28,6,6970.72,2255,2,2,3,7,Potential
+SC-10725,Steven Cartwright,2014-10-01,7,2944.49,2282,2,2,2,6,At Risk
+GP-4740,Guy Phonely,2014-08-02,8,4610.1,2342,1,2,3,6,At Risk
+TC-11475,Tony Chapman,2014-06-10,9,1907.75,2395,1,3,2,6,At Risk
+PP-8955,Paul Prost,2014-12-17,3,359.06,2205,4,1,1,6,At Risk
+PA-9060,Pete Armstrong,2014-07-07,6,3670.58,2368,1,2,3,6,At Risk
+JK-5370,Jay Kimmel,2014-08-09,6,3211.45,2335,1,2,3,6,At Risk
+LD-7005,Lisa DeCherney,2014-11-18,6,361.69,2234,3,2,1,6,At Risk
+RS-9420,Ricardo Sperren,2014-11-28,7,385.44,2224,3,2,1,6,At Risk
+HG-4845,Harry Greene,2014-08-12,9,2987.9,2332,1,3,2,6,At Risk
+KC-6675,Kimberly Carter,2014-12-12,3,391.84,2210,4,1,1,6,At Risk
+SJ-10125,Sanjit Jacobs,2014-03-12,9,2961.19,2485,1,3,2,6,At Risk
+BC-1125,Becky Castell,2014-12-02,6,396.04,2220,3,2,1,6,At Risk
+FM-4215,Filia McAdams,2014-09-26,6,2935.61,2287,2,2,2,6,At Risk
+BF-1020,Barry Französisch,2014-09-26,7,3007,2287,2,2,2,6,At Risk
+SP-10545,Sibella Parks,2014-12-13,4,418.32,2209,4,1,1,6,At Risk
+EM-4140,Eugene Moren,2014-09-29,6,1900.79,2284,2,2,2,6,At Risk
+CM-2715,Craig Molinari,2014-09-05,7,2838.26,2308,2,2,2,6,At Risk
+RE-9405,Ricardo Emerson,2014-10-21,6,1967.4,2262,2,2,2,6,At Risk
+EM-4095,Eudokia Martin,2014-08-22,9,2833.56,2322,1,3,2,6,At Risk
+RD-9480,Rick Duston,2014-11-14,6,1061.73,2238,3,2,1,6,At Risk
+AW-840,Anthony Witt,2014-11-05,7,1947,2247,2,2,2,6,At Risk
+LH-7155,Logan Haushalter,2014-08-26,8,3228.75,2318,1,2,3,6,At Risk
+RH-9600,Rob Haberlin,2014-07-11,8,3340.47,2364,1,2,3,6,At Risk
+GM-4500,Gene McClure,2014-09-18,5,4298.37,2295,2,1,3,6,At Risk
+JH-5985,Joseph Holt,2014-11-09,7,2073.48,2243,2,2,2,6,At Risk
+LC-6885,Lena Creighton,2014-06-05,9,1828.09,2400,1,3,2,6,At Risk
+RP-9855,Roy Phan,2013-11-26,6,3569.14,2591,1,2,3,6,At Risk
+ES-4080,Erin Smith,2014-08-08,9,1925.54,2336,1,3,2,6,At Risk
+JF-5190,Jamie Frazer,2014-08-04,8,3510.17,2340,1,2,3,6,At Risk
+MZ-7335,Maria Zettner,2014-09-10,5,3494.23,2303,2,1,3,6,At Risk
+AS-90,Adam Shillingsburg,2014-12-10,4,435.2,2212,4,1,1,6,At Risk
+JR-6210,Justin Ritter,2014-11-24,6,1033.29,2228,3,2,1,6,At Risk
+CH-2070,Cathy Hwang,2014-02-28,8,4545.62,2497,1,2,3,6,At Risk
+DO-3645,Doug O'Connell,2014-11-20,5,1689.25,2232,3,1,2,6,At Risk
+PH-8790,Patricia Hirasaki,2014-09-08,8,1746.84,2305,2,2,2,6,At Risk
+CS-2175,Charles Sheldon,2014-11-04,5,3340.1,2248,2,1,3,6,At Risk
+AP-720,Anne Pryor,2014-11-24,6,999.7,2228,3,2,1,6,At Risk
+HR-4770,Hallie Redmond,2014-06-27,8,4550.32,2378,1,2,3,6,At Risk
+SV-10935,Susan Vittorini,2014-12-20,3,487.75,2202,4,1,1,6,At Risk
+BW-1110,Bart Watters,2014-06-30,10,1696.83,2375,1,3,2,6,At Risk
+SF-10065,Sandra Flanagan,2014-05-16,8,3861.43,2420,1,2,3,6,At Risk
+GZ-4470,Gary Zandusky,2014-08-06,8,3835.63,2338,1,2,3,6,At Risk
+BF-1080,Bart Folk,2014-06-05,6,3808.17,2400,1,2,3,6,At Risk
+JF-5565,Jill Fjeld,2013-11-06,6,3776.7,2611,1,2,3,6,At Risk
+AG-300,Aleksandra Gannaway,2014-09-24,6,1703.31,2289,2,2,2,6,At Risk
+HA-4905,Helen Abelman,2014-12-18,4,1106.6,2204,4,1,1,6,At Risk
+MM-7920,Michael Moore,2014-12-03,6,1350.03,2219,3,2,1,6,At Risk
+SJ-10215,Sarah Jordon,2014-11-05,9,1359.25,2247,2,3,1,6,At Risk
+DH-3075,Dave Hallsten,2014-07-25,10,2063.68,2350,1,3,2,6,At Risk
+RP-9390,Resi Pölking,2014-04-05,7,5935.98,2461,1,2,3,6,At Risk
+IM-5070,Irene Maddox,2014-11-11,7,2064.07,2241,2,2,2,6,At Risk
+MD-7350,Maribeth Dona,2014-10-10,6,1374.2,2273,2,2,2,6,At Risk
+RR-9525,Rick Reed,2014-10-03,7,1376.91,2280,2,2,2,6,At Risk
+JK-5730,Joe Kamberova,2013-09-04,6,5862.87,2674,1,2,3,6,At Risk
+MS-7710,Maurice Satty,2014-10-29,8,1529.46,2254,2,2,2,6,At Risk
+ML-7755,Max Ludwig,2014-12-05,7,1108.5,2217,3,2,1,6,At Risk
+TT-11070,Ted Trevino,2014-11-24,2,1572.33,2228,3,1,2,6,At Risk
+TM-11490,Tony Molinari,2014-11-06,8,2063.02,2246,2,2,2,6,At Risk
+TB-11280,Toby Braunhardt,2014-07-28,9,1574.32,2347,1,3,2,6,At Risk
+GM-4680,Greg Matthias,2014-10-20,6,1590.4,2263,2,2,2,6,At Risk
+GH-4410,Gary Hansen,2014-03-09,9,1610.22,2488,1,3,2,6,At Risk
+MF-8250,Monica Federle,2014-10-30,6,1517.55,2253,2,2,2,6,At Risk
+AG-765,Anthony Garverick,2014-09-08,8,1859.53,2305,2,2,2,6,At Risk
+HE-4800,Harold Engle,2014-11-25,8,1091.32,2227,3,2,1,6,At Risk
+MC-7425,Mark Cousins,2014-11-26,5,1489.85,2226,3,1,2,6,At Risk
+TH-11115,Thea Hudgings,2014-09-03,6,1870.17,2310,2,2,2,6,At Risk
+TS-11340,Toby Swindell,2014-11-21,5,1631.32,2231,3,1,2,6,At Risk
+JK-5625,Jim Karlsson,2014-02-18,8,4364.76,2507,1,2,3,6,At Risk
+JF-5490,Jeremy Farry,2014-09-23,7,1487.39,2290,2,2,2,6,At Risk
+BS-1665,Brian Stugart,2014-08-01,7,5101.91,2343,1,2,3,6,At Risk
+DK-3225,Dean Katz,2014-10-27,8,1407.98,2256,2,2,2,6,At Risk
+AS-135,Adrian Shami,2014-09-30,5,3978.81,2283,2,1,3,6,At Risk
+KA-6525,Kelly Andreada,2014-09-29,7,1429.88,2284,2,2,2,6,At Risk
+RS-9765,Roland Schwarz,2014-08-30,6,1524.15,2314,2,2,2,6,At Risk
+LD-6855,Lela Donovan,2014-10-12,8,2822.71,2271,2,2,2,6,At Risk
+CR-2580,Clay Rozendal,2014-11-27,5,3057.26,2225,3,1,2,6,At Risk
+DB-2910,Daniel Byrd,2014-11-07,8,3051.18,2245,2,2,2,6,At Risk
+CS-2505,Cindy Stewart,2014-11-11,7,1894.5,2241,2,2,2,6,At Risk
+MS-7530,MaryBeth Skach,2014-11-10,8,1456.81,2242,2,2,2,6,At Risk
+PB-9210,Phillip Breyer,2014-02-27,7,5302.2,2498,1,2,3,6,At Risk
+JM-5865,John Murray,2014-10-22,6,1544.27,2261,2,2,2,6,At Risk
+RW-9690,Robert Waldorf,2014-09-24,8,1399,2289,2,2,2,6,At Risk
+CV-2805,Cynthia Voltz,2014-04-18,7,5088.85,2448,1,2,3,6,At Risk
+KT-6465,Kean Takahito,2014-09-17,7,1532.12,2296,2,2,2,6,At Risk
+CS-2355,Christine Sundaresam,2014-11-06,9,1307.16,2246,2,3,1,6,At Risk
+GA-4515,George Ashbrook,2014-11-26,7,1318.39,2226,3,2,1,6,At Risk
+DM-3345,Denise Monton,2014-08-08,6,4998.42,2336,1,2,3,6,At Risk
+NP-8685,Nora Pelletier,2014-09-08,4,4994.85,2305,2,1,3,6,At Risk
+KN-6705,Kristina Nunn,2014-08-30,5,4830.86,2314,2,1,3,6,At Risk
+RM-9750,Roland Murray,2014-11-21,7,929.18,2231,3,2,1,6,At Risk
+GR-4560,Georgia Rosenberg,2014-07-31,6,4955.53,2344,1,2,3,6,At Risk
+SM-10950,Suzanne McNair,2014-09-18,9,1336.31,2295,2,3,1,6,At Risk
+FG-4260,Frank Gastineau,2014-09-12,9,308.21,2301,2,3,1,6,At Risk
+LS-7230,Lycoris Saunders,2014-09-23,10,1164.35,2290,2,3,1,6,At Risk
+AG-675,Anna Gayman,2014-07-11,10,2368.13,2364,1,3,2,6,At Risk
+TC-11295,Toby Carlisle,2014-12-19,5,730.91,2203,4,1,1,6,At Risk
+EH-3990,Erica Hackney,2014-11-28,6,672.49,2224,3,2,1,6,At Risk
+KH-6360,Katherine Hughes,2014-09-22,7,2221.36,2291,2,2,2,6,At Risk
+MT-8070,Michelle Tran,2014-02-11,7,6851.92,2514,1,2,3,6,At Risk
+PJ-9015,Pauline Johnson,2014-06-18,8,6612.66,2387,1,2,3,6,At Risk
+PV-8985,Paul Van Hugh,2014-08-09,6,6390.64,2335,1,2,3,6,At Risk
+SD-10485,Shirley Daniels,2014-11-21,8,1157.34,2231,3,2,1,6,At Risk
+KC-6540,Kelly Collister,2014-11-28,7,505.89,2224,3,2,1,6,At Risk
+AH-195,Alan Haines,2014-03-28,9,2651.57,2469,1,3,2,6,At Risk
+AC-615,Ann Chong,2014-09-30,7,2298.43,2283,2,2,2,6,At Risk
+CL-1890,Carl Ludwig,2014-09-30,9,560.75,2283,2,3,1,6,At Risk
+JE-5475,Jeremy Ellison,2014-12-04,8,914.18,2218,3,2,1,6,At Risk
+AH-30,Aaron Hawkins,2013-09-19,7,6320.02,2659,1,2,3,6,At Risk
+SL-10155,Sara Luxemburg,2014-07-18,14,2451.78,2357,1,3,2,6,At Risk
+NG-8355,Nat Gilpin,2014-09-19,7,2746.47,2294,2,2,2,6,At Risk
+FH-4365,Fred Hopkins,2014-07-18,9,2751.35,2357,1,3,2,6,At Risk
+JF-5295,Jason Fortune-,2014-10-29,8,2433.94,2254,2,2,2,6,At Risk
+VT-11700,Valerie Takahito,2014-12-01,7,1271.44,2221,3,2,1,6,At Risk
+DJ-3630,Doug Jacobs,2014-11-27,6,1293.95,2225,3,2,1,6,At Risk
+MR-7545,Mathew Reese,2014-09-22,6,2325.24,2291,2,2,2,6,At Risk
+BK-1260,Berenike Kampe,2014-11-21,6,291.56,2231,3,2,1,6,At Risk
+DL-2925,Daniel Lacy,2014-11-24,7,832,2228,3,2,1,6,At Risk
+CV-2295,Christina VanderZanden,2014-10-07,9,1283.24,2276,2,3,1,6,At Risk
+DD-3570,Dorothy Dickinson,2014-10-29,8,2331.41,2254,2,2,2,6,At Risk
+LB-6795,Laurel Beltran,2014-11-05,8,1796.12,2247,2,2,2,6,At Risk
+KN-6450,Kean Nguyen,2014-09-29,8,1767.28,2284,2,2,2,6,At Risk
+PJ-8835,Patrick Jones,2014-11-19,6,801.41,2233,3,2,1,6,At Risk
+SW-10350,Sean Wendt,2014-09-22,9,1244.45,2291,2,3,1,6,At Risk
+FH-4350,Fred Harton,2014-12-17,3,110.48,2205,4,1,1,6,At Risk
+NS-8505,Neola Schneider,2014-12-18,5,962.85,2204,4,1,1,6,At Risk
+BG-1740,Bruce Geld,2014-12-15,4,692.45,2207,4,1,1,6,At Risk
+MP-8175,Mike Pelletier,2014-10-02,6,2169.17,2281,2,2,2,6,At Risk
+JB-5400,Jennifer Braxton,2014-10-10,7,2172.03,2273,2,2,2,6,At Risk
+AR-345,Alex Russell,2014-08-12,9,2301.07,2332,1,3,2,6,At Risk
+JK-6090,Juliana Krohn,2014-12-19,5,1215.52,2203,4,1,1,6,At Risk
+AW-930,Arthur Wiediger,2014-11-24,6,782.06,2228,3,2,1,6,At Risk
+MD-7860,Michael Dominguez,2014-09-19,5,6853.51,2294,2,1,3,6,At Risk
+KT-6480,Kean Thornton,2014-10-08,7,2119.74,2275,2,2,2,6,At Risk
+RH-9495,Rick Hansen,2014-09-26,3,3057.21,2287,2,1,2,5,At Risk
+NC-8415,Nathan Cano,2014-09-16,5,1503.43,2297,2,1,2,5,At Risk
+MC-7275,Marc Crier,2014-05-10,5,4301.04,2426,1,1,3,5,At Risk
+SG-10890,Susan Gilcrest,2013-11-26,6,1424.78,2591,1,2,2,5,At Risk
+RC-9960,Ryan Crowe,2014-09-10,5,1639.97,2303,2,1,2,5,At Risk
+PM-9135,Peter McVee,2014-03-05,6,1429.3,2492,1,2,2,5,At Risk
+SR-10425,Sharelle Roach,2014-11-17,5,281.21,2235,3,1,1,5,At Risk
+MG-7695,Maureen Gnade,2014-01-30,7,2104.6,2526,1,2,2,5,At Risk
+KC-6255,Karen Carlisle,2014-11-04,8,1094.36,2248,2,2,1,5,At Risk
+SS-10590,Sonia Sunley,2014-12-03,3,940.38,2219,3,1,1,5,At Risk
+RB-9435,Richard Bierner,2014-05-29,6,3179.15,2407,1,2,2,5,At Risk
+CG-2520,Claire Gute,2014-09-03,7,1116.2,2310,2,2,1,5,At Risk
+JJ-5760,Joel Jenkins,2014-04-07,6,1890.13,2459,1,2,2,5,At Risk
+PN-8775,Parhena Norris,2014-11-08,5,1522.11,2244,2,1,2,5,At Risk
+ST-10530,Shui Tom,2014-09-27,6,943.26,2286,2,2,1,5,At Risk
+SC-10260,Scott Cohen,2014-08-12,7,3166.52,2332,1,2,2,5,At Risk
+PG-8895,Paul Gonzalez,2014-03-07,6,1981.3,2490,1,2,2,5,At Risk
+CJ-2010,Caroline Jumper,2014-11-15,3,223.56,2237,3,1,1,5,At Risk
+MM-7260,Magdelene Morse,2014-08-22,5,5510.36,2322,1,1,3,5,At Risk
+CC-2670,Craig Carreira,2014-08-07,6,1527.58,2337,1,2,2,5,At Risk
+JG-5310,Jason Gross,2014-11-18,5,836.99,2234,3,1,1,5,At Risk
+HF-4995,Herbert Flentye,2013-12-06,8,2099.97,2581,1,2,2,5,At Risk
+HM-4980,Henry MacAllister,2013-09-23,5,4409.3,2655,1,1,3,5,At Risk
+HW-4935,Helen Wasserman,2014-11-05,7,1174.82,2247,2,2,1,5,At Risk
+HK-4890,Heather Kirkland,2014-11-05,6,1656.97,2247,2,1,2,5,At Risk
+DM-3525,Don Miller,2014-02-13,6,2191.27,2512,1,2,2,5,At Risk
+KL-6555,Kelly Lampkin,2014-07-09,7,2184.06,2366,1,2,2,5,At Risk
+JP-5520,Jeremy Pistek,2014-09-10,4,2227.52,2303,2,1,2,5,At Risk
+PS-8970,Paul Stevenson,2014-08-29,4,1395.95,2315,2,1,2,5,At Risk
+PW-9030,Pauline Webber,2014-11-04,7,1081,2248,2,2,1,5,At Risk
+AP-915,Arthur Prichep,2014-09-30,5,2668.08,2283,2,1,2,5,At Risk
+TS-11085,Thais Sissman,2014-05-26,8,1390.68,2410,1,2,2,5,At Risk
+CS-2460,Chuck Sachs,2014-06-12,8,2671.23,2393,1,2,2,5,At Risk
+AC-660,Anna Chung,2014-09-03,4,2676.09,2310,2,1,2,5,At Risk
+JB-6000,Joy Bell-,2014-07-10,7,1881.01,2365,1,2,2,5,At Risk
+RB-9795,Ross Baird,2014-12-01,5,255.29,2221,3,1,1,5,At Risk
+GA-4725,Guy Armstrong,2014-10-22,4,1460.8,2261,2,1,2,5,At Risk
+CP-2340,Christine Phan,2013-09-24,4,5044.65,2654,1,1,3,5,At Risk
+MT-7815,Meg Tillman,2014-07-08,6,1500.59,2367,1,2,2,5,At Risk
+DB-3270,Deborah Brumfield,2014-11-13,2,886.23,2239,3,1,1,5,At Risk
+AM-360,Alice McCarthy,2014-07-09,6,2035.83,2366,1,2,2,5,At Risk
+CR-2820,Cyra Reiten,2014-11-06,8,1188.01,2246,2,2,1,5,At Risk
+SC-10770,Stewart Carmichael,2014-06-30,7,2033.21,2375,1,2,2,5,At Risk
+MF-7665,Maureen Fritzler,2014-11-13,3,161.91,2239,3,1,1,5,At Risk
+CC-2685,Craig Carroll,2014-08-22,5,4019.41,2322,1,1,3,5,At Risk
+SW-10275,Scott Williamson,2014-11-12,5,1480.58,2240,2,1,2,5,At Risk
+DL-2865,Dan Lawera,2014-06-12,7,1502.96,2393,1,2,2,5,At Risk
+MG-8145,Mike Gockenbach,2014-03-25,3,5229.11,2472,1,1,3,5,At Risk
+JE-5715,Joe Elijah,2014-10-06,7,180.3,2277,2,2,1,5,At Risk
+RK-9300,Ralph Kennedy,2014-12-03,4,519.12,2219,3,1,1,5,At Risk
+SF-10200,Sarah Foster,2014-08-12,8,2633.32,2332,1,2,2,5,At Risk
+EH-4005,Erica Hernandez,2014-06-18,7,2629.67,2387,1,2,2,5,At Risk
+JE-5745,Joel Eaton,2014-06-20,7,2275.5,2385,1,2,2,5,At Risk
+MK-7905,Michael Kennedy,2014-08-04,11,1244.96,2340,1,3,1,5,At Risk
+KH-6690,Kristen Hastings,2014-05-07,7,1696.01,2429,1,2,2,5,At Risk
+EM-3810,Eleni McCrary,2014-11-03,6,1032.88,2249,2,2,1,5,At Risk
+BG-1695,Brooke Gillingham,2014-11-17,5,488.85,2235,3,1,1,5,At Risk
+MC-7845,Michael Chen,2014-11-27,4,991.73,2225,3,1,1,5,At Risk
+CM-2160,Charles McCrossin,2014-11-12,5,2245.92,2240,2,1,2,5,At Risk
+ED-3885,Emily Ducich,2014-11-05,8,525.47,2247,2,2,1,5,At Risk
+DW-3585,Dorothy Wardle,2014-12-03,4,461.87,2219,3,1,1,5,At Risk
+JR-5670,Jim Radford,2014-08-25,6,2585.03,2319,1,2,2,5,At Risk
+KD-6345,Katherine Ducich,2014-11-04,6,536.46,2248,2,2,1,5,At Risk
+AH-210,Alan Hwang,2013-09-30,4,3277.11,2648,1,1,3,5,At Risk
+MS-7770,Maxwell Schwartz,2014-09-24,6,538.56,2289,2,2,1,5,At Risk
+AB-15,Aaron Bergman,2013-11-14,5,4607.13,2603,1,1,3,5,At Risk
+LP-7080,Liz Pelletier,2014-06-30,7,1831.34,2375,1,2,2,5,At Risk
+LE-6810,Laurel Elliston,2014-10-29,6,1049.52,2254,2,2,1,5,At Risk
+AH-690,Anna Häberlin,2014-11-03,5,1817.9,2249,2,1,2,5,At Risk
+HM-4860,Harry Marie,2014-11-27,4,1042.77,2225,3,1,1,5,At Risk
+GB-4575,Giulietta Baptist,2014-06-05,6,1821.91,2400,1,2,2,5,At Risk
+EH-3765,Edward Hooks,2014-08-25,9,1010.38,2319,1,3,1,5,At Risk
+HA-4920,Helen Andreada,2014-10-02,6,670.67,2281,2,2,1,5,At Risk
+VP-11730,Victor Preis,2014-12-03,4,432,2219,3,1,1,5,At Risk
+KM-6660,Khloe Miller,2014-12-01,3,188.54,2221,3,1,1,5,At Risk
+BB-990,Barry Blumstein,2014-11-11,7,822.29,2241,2,2,1,5,At Risk
+PW-9240,Pierre Wener,2014-10-31,7,1237.53,2252,2,2,1,5,At Risk
+RH-9510,Rick Huthwaite,2013-01-30,7,1837.79,2891,1,2,2,5,At Risk
+BD-1770,Bryan Davis,2014-05-07,5,3405.07,2429,1,1,3,5,At Risk
+BT-1395,Bill Tyler,2014-11-28,4,448.85,2224,3,1,1,5,At Risk
+JK-6120,Julie Kriz,2014-08-13,6,2513.07,2331,1,2,2,5,At Risk
+DF-3135,David Flashing,2014-11-18,4,1301.65,2234,3,1,1,5,At Risk
+CM-1935,Carlos Meador,2014-11-13,7,459.29,2239,2,2,1,5,At Risk
+HZ-4950,Henia Zydlo,2014-06-06,6,2830.42,2399,1,2,2,5,At Risk
+TZ-11580,Tracy Zic,2014-11-13,5,403.01,2239,3,1,1,5,At Risk
+JS-5880,John Stevenson,2014-06-06,6,1746,2399,1,2,2,5,At Risk
+SC-10440,Shaun Chance,2014-09-30,4,1929.08,2283,2,1,2,5,At Risk
+CA-1965,Carol Adams,2014-08-26,8,2883.14,2318,1,2,2,5,At Risk
+NP-8670,Nora Paige,2014-05-19,6,2871.87,2417,1,2,2,5,At Risk
+SB-10185,Sarah Brown,2014-10-14,7,1268.44,2269,2,2,1,5,At Risk
+EM-3960,Eric Murdock,2014-06-20,8,2855.87,2385,1,2,2,5,At Risk
+RL-9615,Rob Lucas,2014-04-10,8,2420.23,2456,1,2,2,5,At Risk
+DB-3360,Dennis Bolton,2013-10-23,2,3691.53,2625,1,1,3,5,At Risk
+DB-3615,Doug Bickford,2014-09-15,4,2824.15,2298,2,1,2,5,At Risk
+BT-1530,Bradley Talbott,2014-01-13,7,1535.78,2543,1,2,2,5,At Risk
+KB-6240,Karen Bern,2014-06-13,7,1945.32,2392,1,2,2,5,At Risk
+SG-10605,Speros Goranitis,2014-05-12,6,2816.07,2424,1,2,2,5,At Risk
+FP-4320,Frank Preis,2014-12-04,5,816.58,2218,3,1,1,5,At Risk
+EK-3795,Eileen Kiefer,2014-06-02,6,1531.08,2403,1,2,2,5,At Risk
+PS-9045,Penelope Sewall,2014-10-31,7,829.36,2252,2,2,1,5,At Risk
+FC-4245,Frank Carlisle,2013-08-27,6,1540.64,2682,1,2,2,5,At Risk
+EB-4170,Evan Bailliet,2014-11-07,6,1267.62,2245,2,2,1,5,At Risk
+SF-10965,Sylvia Foulston,2014-07-04,6,2476.3,2371,1,2,2,5,At Risk
+EC-4050,Erin Creighton,2014-07-22,7,2301.32,2353,1,2,2,5,At Risk
+PO-8865,Patrick O'Donnell,2014-01-13,6,2973.15,2543,1,2,2,5,At Risk
+EJ-3720,Ed Jacobs,2014-07-28,8,1727.96,2347,1,2,2,5,At Risk
+SC-10680,Steve Carroll,2014-06-25,4,6344.79,2380,1,1,3,5,At Risk
+LC-6960,Lindsay Castell,2014-06-23,8,2487.4,2382,1,2,2,5,At Risk
+LB-6735,Larry Blacks,2014-08-16,7,1897.95,2328,1,2,2,5,At Risk
+BS-1365,Bill Shonely,2014-11-24,5,957.63,2228,3,1,1,5,At Risk
+MH-8115,Mick Hernandez,2014-11-03,7,1260.7,2249,2,2,1,5,At Risk
+BD-1560,Brendan Dodson,2014-10-02,5,1564.02,2281,2,1,2,5,At Risk
+BM-1650,Brian Moss,2013-09-06,8,2537.11,2672,1,2,2,5,At Risk
+RB-9465,Rick Bensley,2014-03-19,3,3675.24,2478,1,1,3,5,At Risk
+MS-7365,Maribeth Schnelling,2014-09-11,5,1365.54,2302,2,1,1,4,At Risk
+GT-4710,Greg Tran,2014-11-06,4,1079.06,2246,2,1,1,4,At Risk
+IL-5100,Ivan Liston,2014-07-21,7,1052.81,2354,1,2,1,4,At Risk
+TB-11055,Ted Butterfield,2014-02-10,3,2355.14,2515,1,1,2,4,At Risk
+SG-10080,Sandra Glassco,2013-12-27,6,1078.73,2560,1,2,1,4,At Risk
+NK-8490,Neil Knudson,2014-06-08,4,2395.35,2397,1,1,2,4,At Risk
+NC-8535,Nick Crebassa,2014-08-15,7,1250.87,2329,1,2,1,4,At Risk
+JS-5685,Jim Sink,2014-08-11,5,1944.06,2333,1,1,2,4,At Risk
+RP-9270,Rachel Payne,2014-03-20,6,1274.35,2477,1,2,1,4,At Risk
+CK-2205,Chloris Kastensmidt,2014-10-13,5,950.7,2270,2,1,1,4,At Risk
+MY-7380,Maribeth Yedwab,2014-02-12,4,1745.57,2513,1,1,2,4,At Risk
+CM-2445,Chuck Magee,2014-01-17,4,1741.58,2539,1,1,2,4,At Risk
+NF-8595,Nicole Fjeld,2013-08-06,5,1731.94,2703,1,1,2,4,At Risk
+TP-11130,Theone Pippenger,2014-08-14,6,1261.45,2330,1,2,1,4,At Risk
+LS-7245,Lynn Smith,2014-05-28,6,953.15,2408,1,2,1,4,At Risk
+CC-2100,Chad Cunningham,2014-11-01,5,1020.05,2251,2,1,1,4,At Risk
+SM-10905,Susan MacKendrick,2014-08-21,5,1711.99,2323,1,1,2,4,At Risk
+BP-1155,Becky Pak,2014-04-14,6,1110.78,2452,1,2,1,4,At Risk
+PS-8760,Pamela Stobb,2014-01-18,5,1706.2,2538,1,1,2,4,At Risk
+TP-11415,Tom Prescott,2013-03-30,4,1950.95,2832,1,1,2,4,At Risk
+LH-7020,Lisa Hazard,2014-11-03,3,973.21,2249,2,1,1,4,At Risk
+EM-4200,Evan Minnotte,2014-08-02,4,2585.9,2342,1,1,2,4,At Risk
+PC-8745,Pamela Coakley,2014-11-04,5,1246.56,2248,2,1,1,4,At Risk
+GG-4650,Greg Guthrie,2014-09-19,5,1000.42,2294,2,1,1,4,At Risk
+AS-240,Alan Shonely,2013-08-20,5,1686.51,2689,1,1,2,4,At Risk
+MH-7290,Marc Harrigan,2012-12-24,3,1685.34,2928,1,1,2,4,At Risk
+TB-11625,Trudy Brown,2013-11-28,5,1810.75,2589,1,1,2,4,At Risk
+BF-1275,Beth Fritzler,2014-08-25,7,1009.97,2319,1,2,1,4,At Risk
+CD-1920,Carlos Daly,2014-02-20,4,1821.22,2505,1,1,2,4,At Risk
+RR-9315,Ralph Ritter,2014-05-13,4,1820.85,2423,1,1,2,4,At Risk
+SC-10230,Scot Coram,2014-06-20,3,1793.91,2385,1,1,2,4,At Risk
+KH-6630,Ken Heidel,2014-02-08,5,1795.87,2517,1,1,2,4,At Risk
+TR-11325,Toby Ritter,2014-07-16,4,2395.72,2359,1,1,2,4,At Risk
+KM-6375,Katherine Murray,2014-02-13,5,2124.7,2512,1,1,2,4,At Risk
+HP-4815,Harold Pawlan,2014-10-29,5,1196.68,2254,2,1,1,4,At Risk
+TH-11100,Thea Hendricks,2014-04-22,4,1856.19,2444,1,1,2,4,At Risk
+MH-7620,Matt Hagelstein,2014-04-30,7,1179.67,2436,1,2,1,4,At Risk
+DB-3660,Duane Benoit,2014-05-08,3,2207.71,2428,1,1,2,4,At Risk
+TC-11535,Tracy Collins,2013-12-26,4,2214.97,2561,1,1,2,4,At Risk
+AA-480,Andrew Allen,2014-02-20,5,2063.49,2505,1,1,2,4,At Risk
+DW-3540,Don Weiss,2014-11-07,4,1216.59,2245,2,1,1,4,At Risk
+NB-8580,Nicole Brennan,2013-10-29,7,1059.48,2619,1,2,1,4,At Risk
+CC-2145,Charles Crestani,2013-08-14,6,1158.18,2695,1,2,1,4,At Risk
+JM-5265,Janet Molinari,2014-09-02,4,1131.91,2311,2,1,1,4,At Risk
+TS-11160,Theresa Swint,2014-09-17,5,1130.07,2296,2,1,1,4,At Risk
+TS-11505,Tony Sayre,2014-03-19,4,2123.95,2478,1,1,2,4,At Risk
+HJ-4875,Heather Jas,2014-02-24,6,1121.22,2501,1,2,1,4,At Risk
+JL-5505,Jeremy Lonsdale,2014-01-24,3,2729.34,2532,1,1,2,4,At Risk
+MO-7950,Michael Oakman,2014-09-24,3,933.19,2289,2,1,1,4,At Risk
+EB-3750,Edward Becker,2014-06-30,6,939.15,2375,1,2,1,4,At Risk
+TS-11610,Troy Staebel,2014-07-09,5,2011.14,2366,1,1,2,4,At Risk
+TB-11190,Thomas Brumley,2014-09-08,4,1115.37,2305,2,1,1,4,At Risk
+JL-5850,John Lucas,2013-02-02,4,2003.6,2888,1,1,2,4,At Risk
+PK-8910,Paul Knutson,2014-09-01,4,948.46,2312,2,1,1,4,At Risk
+SB-10290,Sean Braxton,2014-06-23,5,1975.4,2382,1,1,2,4,At Risk
+RF-9735,Roland Fjeld,2014-09-04,3,950.13,2309,2,1,1,4,At Risk
+DK-2895,Dana Kaydos,2014-08-07,6,1292.13,2337,1,2,1,4,At Risk
+CM-1815,Candace McMahon,2014-10-31,5,431.87,2252,2,1,1,4,At Risk
+GK-4620,Grace Kelly,2014-09-22,4,764.6,2291,2,1,1,4,At Risk
+SP-10650,Stephanie Phelps,2014-07-15,6,770.9,2360,1,2,1,4,At Risk
+FA-4230,Frank Atkinson,2014-06-30,6,814.57,2375,1,2,1,4,At Risk
+GM-4695,Greg Maxwell,2014-05-23,7,791.5,2413,1,2,1,4,At Risk
+BS-1755,Bruce Stewart,2014-03-11,5,1679.76,2486,1,1,2,4,At Risk
+GH-4485,Gene Hale,2014-10-07,4,794.62,2276,2,1,1,4,At Risk
+MC-8100,Mick Crebagga,2014-09-18,3,659.34,2295,2,1,1,4,At Risk
+AA-375,Allen Armold,2014-04-22,8,654.49,2444,1,2,1,4,At Risk
+JS-5595,Jill Stevenson,2013-02-20,6,806.69,2870,1,2,1,4,At Risk
+BT-1680,Brian Thompson,2014-11-04,4,807.36,2248,2,1,1,4,At Risk
+BB-1545,Brenda Bowman,2014-11-12,5,207.23,2240,2,1,1,4,At Risk
+ML-7395,Marina Lichtenstein,2014-08-21,7,1049.4,2323,1,2,1,4,At Risk
+NB-8655,Nona Balk,2014-09-12,5,434.62,2301,2,1,1,4,At Risk
+TS-11655,Trudy Schmidt,2014-06-12,6,452.88,2393,1,2,1,4,At Risk
+KS-6300,Karen Seio,2014-09-16,4,221.61,2297,2,1,1,4,At Risk
+CM-2235,Chris McAfee,2014-11-10,5,243.03,2242,2,1,1,4,At Risk
+EP-3915,Emily Phan,2014-10-17,3,487.95,2266,2,1,1,4,At Risk
+RA-9885,Ruben Ausman,2014-08-28,8,503.27,2316,1,2,1,4,At Risk
+NZ-8565,Nick Zandusky,2014-09-23,4,328.58,2290,2,1,1,4,At Risk
+HG-4965,Henry Goldwyn,2014-09-23,5,354.59,2290,2,1,1,4,At Risk
+EM-3825,Elizabeth Moffitt,2013-09-05,6,378.26,2673,1,2,1,4,At Risk
+JW-5955,Joni Wasserman,2014-09-16,2,307.8,2297,2,1,1,4,At Risk
+DB-3210,Dean Braden,2013-05-28,7,387.02,2773,1,2,1,4,At Risk
+RF-9840,Roy Französisch,2014-08-15,6,571.72,2329,1,2,1,4,At Risk
+WB-11850,William Brown,2014-09-08,2,182.53,2305,2,1,1,4,At Risk
+TP-11565,Tracy Poddar,2014-09-19,5,857.37,2294,2,1,1,4,At Risk
+JM-5580,Jill Matthias,2014-11-12,5,880.32,2240,2,1,1,4,At Risk
+YC-11895,Yoseph Carroll,2014-09-23,4,166.3,2290,2,1,1,4,At Risk
+SP-10920,Susan Pistek,2014-09-15,4,896.39,2298,2,1,1,4,At Risk
+BF-1170,Ben Ferrer,2014-06-21,6,904.92,2384,1,2,1,4,At Risk
+SC-10095,Sanjit Chand,2014-05-20,7,918.52,2416,1,2,1,4,At Risk
+DS-3180,David Smith,2014-10-21,2,185.14,2262,2,1,1,4,At Risk
+JC-5340,Jasper Cacioppo,2014-08-11,6,606.11,2333,1,2,1,4,At Risk
+VF-11715,Vicky Freymann,2014-09-28,4,602.35,2285,2,1,1,4,At Risk
+EN-3780,Edward Nazzal,2014-06-09,8,734.86,2396,1,2,1,4,At Risk
+AG-390,Allen Goldenen,2014-09-10,4,473.11,2303,2,1,1,4,At Risk
+AR-405,Allen Rosenblatt,2014-05-23,6,571.11,2413,1,2,1,4,At Risk
+MP-7965,Michael Paige,2014-06-18,8,567.09,2387,1,2,1,4,At Risk
+AR-540,Andy Reiter,2014-05-24,8,561.6,2412,1,2,1,4,At Risk
+TZ-11445,Tom Zandusky,2013-12-28,7,745.14,2559,1,2,1,4,At Risk
+SE-10110,Sanjit Engle,2014-10-14,3,613.71,2269,2,1,1,4,At Risk
+FC-4335,Fred Chung,2014-09-12,4,550.95,2301,2,1,1,4,At Risk
+TN-11040,Tanja Norvell,2014-11-07,2,187.35,2245,2,1,1,4,At Risk
+GB-4530,George Bell,2014-09-09,5,525.9,2304,2,1,1,4,At Risk
+DB-2970,Darren Budd,2014-11-04,4,513.03,2248,2,1,1,4,At Risk
+JE-5610,Jim Epp,2014-07-09,6,756.86,2366,1,2,1,4,At Risk
+PL-8925,Paul Lucas,2014-11-12,3,759.21,2240,2,1,1,4,At Risk
+AS-45,Aaron Smayling,2014-05-12,3,1616.33,2424,1,1,2,4,At Risk
+QJ-9255,Quincy Jones,2014-10-31,5,387.05,2252,2,1,1,4,At Risk
+JL-5175,James Lanier,2014-08-29,5,1353.09,2315,2,1,1,4,At Risk
+EB-3705,Ed Braxton,2013-11-28,3,3141.63,2589,1,1,2,4,At Risk
+BW-1200,Ben Wallace,2014-08-20,4,3105.82,2324,1,1,2,4,At Risk
+AM-705,Anne McFarland,2014-08-17,6,1303.77,2327,1,2,1,4,At Risk
+MA-7560,Matt Abelman,2014-05-13,4,1628.17,2423,1,1,2,4,At Risk
+CW-1905,Carl Weiss,2013-12-12,4,1436.31,2575,1,1,2,4,At Risk
+CL-2700,Craig Leslie,2014-08-12,4,1432.37,2332,1,1,2,4,At Risk
+CA-2775,Cynthia Arntzen,2014-02-25,4,1485.9,2500,1,1,2,4,At Risk
+CS-2490,Cindy Schnelling,2014-07-15,3,1664.13,2360,1,1,2,4,At Risk
+VP-11760,Victoria Pisteka,2014-05-09,3,1615.66,2427,1,1,2,4,At Risk
+PO-8850,Patrick O'Brill,2014-08-26,4,1432.99,2318,1,1,2,4,At Risk
+SG-10470,Sheri Gordon,2014-08-25,3,3086.67,2319,1,1,2,4,At Risk
+CC-2550,Clay Cheatham,2014-04-04,5,1433.4,2462,1,1,2,4,At Risk
+CA-2055,Cathy Armstrong,2014-04-17,3,1601.73,2449,1,1,2,4,At Risk
+JS-6030,Joy Smith,2014-05-27,4,1573.04,2409,1,1,2,4,At Risk
+CM-2190,Charlotte Melton,2014-08-01,4,1451.49,2343,1,1,2,4,At Risk
+KD-6495,Keith Dawkins,2013-11-28,4,1454.76,2589,1,1,2,4,At Risk
+SC-10695,Steve Chapman,2014-07-10,4,1468.9,2365,1,1,2,4,At Risk
+MC-7590,Matt Collister,2014-01-29,3,1554.06,2527,1,1,2,4,At Risk
+SH-10395,Shahid Hopkins,2014-10-29,4,129.03,2254,2,1,1,4,At Risk
+CD-2790,Cynthia Delaney,2014-08-22,7,1030.79,2322,1,2,1,4,At Risk
+BF-1215,Benjamin Farhat,2014-09-05,5,398.92,2308,2,1,1,4,At Risk
+AC-450,Amy Cox,2014-07-03,7,1026.6,2372,1,2,1,4,At Risk
+KM-6720,Kunst Miller,2014-01-16,3,2928.65,2540,1,1,2,4,At Risk
+SC-10380,Shahid Collister,2014-03-31,4,1556.16,2466,1,1,2,4,At Risk
+AT-735,Annie Thurman,2014-10-23,5,403.65,2260,2,1,1,4,At Risk
+RB-9360,Raymond Buch,2014-09-29,4,404.51,2284,2,1,1,4,At Risk
+AB-150,Aimee Bixby,2013-11-28,4,3143.88,2589,1,1,2,4,At Risk
+NM-8520,Neoma Murray,2014-07-26,1,1540.53,2349,1,1,2,4,At Risk
+DK-3090,Dave Kipp,2014-10-24,3,273.77,2259,2,1,1,4,At Risk
+LW-7215,Luke Weiss,2014-08-21,5,1522.01,2323,1,1,2,4,At Risk
+SC-10845,Sung Chung,2014-11-08,4,1368.12,2244,2,1,1,4,At Risk
+ON-8715,Odella Nelson,2013-09-28,5,1507.76,2650,1,1,2,4,At Risk
+HH-5010,Hilary Holden,2014-06-18,3,1497.57,2387,1,1,2,4,At Risk
+JK-5205,Jamie Kunitz,2013-05-19,5,1617.6,2782,1,1,2,4,At Risk
+DL-3330,Denise Leinenbach,2013-01-25,3,1159.35,2896,1,1,1,3,Churned
+SC-10800,Stuart Calhoun,2014-01-06,2,89.29,2550,1,1,1,3,Churned
+TB-11595,Troy Blackwell,2014-07-22,4,752.07,2353,1,1,1,3,Churned
+SZ-10035,Sam Zeldin,2012-05-19,4,1164.15,3147,1,1,1,3,Churned
+JW-6075,Julia West,2014-04-09,4,747.21,2457,1,1,1,3,Churned
+LH-6750,Larry Hughes,2014-08-28,5,745.65,2316,1,1,1,3,Churned
+FH-4275,Frank Hawley,2014-08-19,5,113.06,2325,1,1,1,3,Churned
+BG-1035,Barry Gonzalez,2013-05-10,1,124.42,2791,1,1,1,3,Churned
+ME-8010,Michelle Ellison,2013-12-04,1,160.5,2583,1,1,1,3,Churned
+TB-11175,Thomas Boland,2014-05-29,4,850.33,2407,1,1,1,3,Churned
+MJ-7740,Max Jones,2014-07-25,4,1136.9,2350,1,1,1,3,Churned
+KM-6225,Kalyca Meade,2013-12-25,3,891.36,2562,1,1,1,3,Churned
+ZC-11910,Zuschuss Carroll,2014-06-14,1,7.17,2391,1,1,1,3,Churned
+PC-9000,Pauline Chand,2013-06-07,4,1160.43,2763,1,1,1,3,Churned
+KN-6390,Katherine Nockton,2014-04-02,3,318.72,2464,1,1,1,3,Churned
+KD-6615,Ken Dana,2014-06-28,3,205.98,2377,1,1,1,3,Churned
+MG-7650,Matthew Grinstein,2013-08-23,1,301.71,2686,1,1,1,3,Churned
+TM-11010,Tamara Manning,2014-05-03,3,300.67,2433,1,1,1,3,Churned
+SP-10620,Stefania Perrino,2014-08-14,5,299.57,2330,1,1,1,3,Churned
+CY-2745,Craig Yedwab,2013-08-26,4,293.03,2683,1,1,1,3,Churned
+TH-11550,Tracy Hopkins,2013-12-07,5,283.83,2580,1,1,1,3,Churned
+RB-9645,Robert Barroso,2014-05-06,3,282.59,2430,1,1,1,3,Churned
+OT-8730,Olvera Toch,2014-05-03,4,265.05,2433,1,1,1,3,Churned
+CS-1950,Carlos Soltero,2014-08-18,5,714.07,2326,1,1,1,3,Churned
+NL-8310,Nancy Lomonaco,2013-06-04,2,251.32,2766,1,1,1,3,Churned
+MG-7890,Michael Granlund,2013-12-23,1,19.13,2564,1,1,1,3,Churned
+KB-6405,Katrina Bavinger,2013-12-09,3,238.55,2578,1,1,1,3,Churned
+RC-9825,Roy Collins,2012-12-20,1,37.44,2932,1,1,1,3,Churned
+DK-2985,Darren Koutras,2011-09-12,1,81.43,3397,1,1,1,3,Churned
+KB-6585,Ken Black,2013-12-25,2,216.78,2562,1,1,1,3,Churned
+MC-7605,Matt Connell,2014-06-19,2,208.41,2386,1,1,1,3,Churned
+JG-5805,John Grady,2014-08-20,3,208.38,2324,1,1,1,3,Churned
+DL-3495,Dionis Lloyd,2014-03-24,5,773.6,2473,1,1,1,3,Churned
+KD-6270,Karen Daniels,2012-10-11,1,813.06,3002,1,1,1,3,Churned
+MO-7500,Mary O'Rourke,2014-03-25,5,810.87,2472,1,1,1,3,Churned
+VG-11805,Vivek Grady,2014-08-18,4,1190.22,2326,1,1,1,3,Churned
+BD-1500,Bradley Drucker,2013-11-28,3,52.05,2589,1,1,1,3,Churned
+DC-3285,Debra Catini,2013-12-04,4,800,2583,1,1,1,3,Churned
+CC-2610,Corey Catlett,2014-01-21,3,782.39,2535,1,1,1,3,Churned
+TD-10995,Tamara Dahlen,2014-07-04,3,780.38,2371,1,1,1,3,Churned
+Co-2640,Corey-Lock,2014-01-03,5,767.64,2553,1,1,1,3,Churned
+MP-7470,Mark Packer,2013-07-06,2,58.11,2734,1,1,1,3,Churned
+MG-7875,Michael Grace,2013-11-23,1,80.19,2594,1,1,1,3,Churned
+AF-885,Art Foster,2014-07-17,2,354.99,2358,1,1,1,3,Churned
+KE-6420,Katrina Edelman,2014-04-24,4,622.45,2442,1,1,1,3,Churned
+ML-7410,Maris LaWare,2014-07-15,3,193.13,2360,1,1,1,3,Churned
+JK-5325,Jason Klamczynski,2013-09-27,3,203.39,2651,1,1,1,3,Churned
+EA-4035,Erin Ashbrook,2014-07-19,3,131.81,2356,1,1,1,3,Churned
+JK-5640,Jim Kriz,2014-07-11,4,428.43,2364,1,1,1,3,Churned
+NC-8625,Noah Childs,2013-09-26,2,442.32,2652,1,1,1,3,Churned
+SJ-10500,Shirley Jackson,2014-04-01,3,454.07,2465,1,1,1,3,Churned
+SC-10575,Sonia Cooley,2013-12-23,2,328.02,2564,1,1,1,3,Churned
+LR-6915,Lena Radford,2013-02-15,3,468.65,2875,1,1,1,3,Churned
+BS-1380,Bill Stewart,2014-08-22,5,469.46,2322,1,1,1,3,Churned
+SC-10020,Sam Craven,2014-04-11,4,476.33,2455,1,1,1,3,Churned
+PK-9075,Pete Kriz,2013-08-24,3,992.78,2685,1,1,1,3,Churned
+GM-4455,Gary Mitchum,2014-06-06,4,488.43,2399,1,1,1,3,Churned
+SP-10860,Sung Pak,2013-11-28,2,503.5,2589,1,1,1,3,Churned
+LS-7200,Luke Schmidt,2013-12-13,4,340.66,2574,1,1,1,3,Churned
+CA-2310,Christine Abelman,2014-01-29,5,636.06,2527,1,1,1,3,Churned
+BP-1290,Beth Paige,2013-12-27,4,383.34,2560,1,1,1,3,Churned
+VG-11790,Vivek Gonzalez,2014-08-06,4,386.17,2338,1,1,1,3,Churned
+KW-6435,Katrina Willman,2014-08-06,4,427.29,2338,1,1,1,3,Churned
+MV-7485,Mark Van Huff,2013-09-17,5,952.54,2661,1,1,1,3,Churned
+HR-4830,Harold Ryan,2014-08-05,3,391.94,2339,1,1,1,3,Churned
+RA-9915,Russell Applegate,2014-08-14,2,420.66,2330,1,1,1,3,Churned
+CT-1995,Carol Triggs,2012-11-08,2,422.78,2974,1,1,1,3,Churned
+SS-10515,Shirley Schmidt,2013-02-25,3,424.53,2865,1,1,1,3,Churned
+AI-855,Arianne Irving,2014-06-11,4,919.97,2394,1,1,1,3,Churned
+BE-1335,Bill Eplett,2013-06-07,5,1321.15,2763,1,1,1,3,Churned
+JD-5790,John Dryer,2014-03-07,5,1323.07,2490,1,1,1,3,Churned
+BE-1455,Brad Eason,2014-08-07,2,1340.31,2337,1,1,1,3,Churned
+CS-2130,Chad Sievert,2014-03-01,4,1367.27,2496,1,1,1,3,Churned
+PR-8880,Patrick Ryan,2014-06-18,5,1085.64,2387,1,1,1,3,Churned
+CC-2430,Chuck Clark,2013-09-16,2,1041.57,2662,1,1,1,3,Churned
+LS-6975,Lindsay Shagiari,2014-07-06,5,716.18,2369,1,1,1,3,Churned
+JM-5535,Jessica Myrick,2014-05-02,5,847.83,2434,1,1,1,3,Churned
+EB-3870,Emily Burns,2013-08-21,5,184.87,2688,1,1,1,3,Churned
+LH-6900,Lena Hernandez,2014-02-28,3,840.79,2497,1,1,1,3,Churned
+SO-10335,Sean O'Donnell,2013-11-26,4,831.5,2591,1,1,1,3,Churned
+MC-8130,Mike Caudle,2014-03-19,5,826.35,2478,1,1,1,3,Churned
+BS-1590,Brendan Sweed,2014-05-08,5,819.45,2428,1,1,1,3,Churned
+LF-7185,Luke Foster,2014-07-07,5,556.52,2368,1,1,1,3,Churned
+RB-9570,Rob Beeghly,2013-10-11,5,586.76,2637,1,1,1,3,Churned
+CM-2385,Christopher Martinez,2013-06-05,4,580.61,2765,1,1,1,3,Churned
+HL-5040,Hunter Lopez,2014-06-26,4,579.34,2379,1,1,1,3,Churned
+RW-9630,Rob Williams,2013-11-27,2,560.01,2590,1,1,1,3,Churned
+SS-10875,Sung Shariari,2014-04-25,4,556.31,2441,1,1,1,3,Churned
+SV-10365,Seth Vernon,2014-07-01,5,1256.47,2374,1,1,1,3,Churned
+DB-3405,Denny Blanton,2013-06-22,2,548.68,2748,1,1,1,3,Churned
+CG-2040,Catherine Glotzbach,2013-12-18,5,518.94,2569,1,1,1,3,Churned
+BF-1005,Barry Franz,2012-12-27,2,732.03,2925,1,1,1,3,Churned
+TG-11310,Toby Gnade,2014-07-24,3,714.42,2351,1,1,1,3,Churned
+SN-10710,Steve Nguyen,2014-04-23,4,702.24,2443,1,1,1,3,Churned
+DW-3195,David Wiener,2012-02-02,4,1241.23,3254,1,1,1,3,Churned
+GD-4590,Giulietta Dortch,2014-01-13,4,700.69,2543,1,1,1,3,Churned
+MC-7635,Matthew Clasen,2013-03-07,4,695.29,2855,1,1,1,3,Churned
+CB-2415,Christy Brittain,2013-08-02,4,1232.57,2707,1,1,1,3,Churned
+BD-1605,Brian Dahlen,2014-03-31,5,689.64,2466,1,1,1,3,Churned
+BV-1245,Benjamin Venier,2014-08-25,3,684.26,2319,1,1,1,3,Churned
+DB-3120,David Bremer,2014-01-07,4,671.23,2549,1,1,1,3,Churned
+CK-2595,Clytie Kelty,2014-05-30,3,662.28,2406,1,1,1,3,Churned
+SH-10635,Stefanie Holloman,2014-07-26,4,658.98,2349,1,1,1,3,Churned
+XP-11865,Xylona Preis,2014-07-24,3,1011.8,2351,1,1,1,3,Churned
+AH-465,Amy Hunt,2014-05-04,4,650.83,2432,1,1,1,3,Churned
+TS-11205,Thomas Seio,2014-02-27,3,641.65,2498,1,1,1,3,Churned

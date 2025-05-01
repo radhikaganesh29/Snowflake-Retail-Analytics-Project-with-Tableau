@@ -1,0 +1,165 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2821
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 SELECT\
+  *\
+FROM\
+  "SALES_ANALYTICS"."RAW_DATA"."GLOBAL_SUPERSTORE"\
+LIMIT\
+  10;\
+\
+\
+\
+SELECT country, ROUND(SUM(sales), 2) AS total_sales\
+FROM global_superstore\
+GROUP BY country\
+ORDER BY total_sales DESC\
+LIMIT 5;\
+\
+SELECT \
+  TO_CHAR(order_date, 'YYYY-MM') AS month,\
+  ROUND(SUM(sales), 2) AS total_sales\
+FROM global_superstore\
+GROUP BY month\
+ORDER BY month;\
+\
+\
+SELECT product_name, ROUND(SUM(profit), 2) AS total_profit\
+FROM global_superstore\
+GROUP BY product_name\
+ORDER BY total_profit DESC\
+LIMIT 5;\
+\
+SELECT \
+  TO_CHAR(order_date, 'YYYY-MM') AS month,\
+  ROUND(SUM(sales), 2) AS total_sales,\
+  ROUND(SUM(profit), 2) AS total_profit\
+FROM global_superstore\
+GROUP BY month\
+ORDER BY month;\
+\
+\
+SELECT \
+  TO_CHAR(order_date, 'YYYY-MM') AS month,\
+  category,\
+  ROUND(SUM(sales), 2) AS total_sales\
+FROM global_superstore\
+GROUP BY month, category\
+ORDER BY month, total_sales DESC;\
+\
+\
+SELECT \
+  ROUND(discount, 2) AS discount_rate,\
+  ROUND(SUM(sales), 2) AS total_sales,\
+  ROUND(SUM(profit), 2) AS total_profit\
+FROM global_superstore\
+GROUP BY discount_rate\
+ORDER BY discount_rate;\
+\
+---RFM---\
+\
+SELECT MAX(order_date) AS snapshot_date FROM global_superstore;\
+\
+WITH rfm AS (\
+  SELECT \
+    customer_id,\
+    customer_name,\
+    MAX(order_date) AS last_order_date,\
+    COUNT(DISTINCT order_id) AS frequency,\
+    ROUND(SUM(sales), 2) AS monetary_value,\
+    DATEDIFF(DAY, MAX(order_date), DATE '2014-12-31') AS recency\
+  FROM global_superstore\
+  GROUP BY customer_id, customer_name\
+)\
+SELECT * FROM rfm\
+ORDER BY recency ASC;\
+\
+\
+WITH rfm_base AS (\
+  SELECT \
+    customer_id,\
+    customer_name,\
+    MAX(order_date) AS last_order_date,\
+    COUNT(DISTINCT order_id) AS frequency,\
+    ROUND(SUM(sales), 2) AS monetary_value,\
+    DATEDIFF(DAY, MAX(order_date), DATE '2014-12-31') AS recency\
+  FROM global_superstore\
+  GROUP BY customer_id, customer_name\
+),\
+rfm_scores AS (\
+  SELECT *,\
+    NTILE(5) OVER (ORDER BY recency DESC) AS recency_score,\
+    NTILE(5) OVER (ORDER BY frequency) AS frequency_score,\
+    NTILE(5) OVER (ORDER BY monetary_value) AS monetary_score\
+  FROM rfm_base\
+)\
+SELECT \
+  customer_id,\
+  customer_name,\
+  recency,\
+  frequency,\
+  monetary_value,\
+  recency_score,\
+  frequency_score,\
+  monetary_score,\
+  (recency_score + frequency_score + monetary_score) AS rfm_total\
+FROM rfm_scores\
+ORDER BY rfm_total DESC;\
+\
+\
+WITH rfm_base AS (\
+  SELECT \
+    customer_id,\
+    customer_name,\
+    MAX(order_date) AS last_order_date,\
+    COUNT(DISTINCT order_id) AS frequency,\
+    ROUND(SUM(sales), 2) AS monetary_value,\
+    DATEDIFF(DAY, MAX(order_date), DATE '2020-12-30') AS recency\
+  FROM global_superstore\
+  GROUP BY customer_id, customer_name\
+),\
+rfm_scores AS (\
+  SELECT *,\
+    NTILE(5) OVER (ORDER BY recency DESC) AS recency_score,\
+    NTILE(5) OVER (ORDER BY frequency) AS frequency_score,\
+    NTILE(5) OVER (ORDER BY monetary_value) AS monetary_score\
+  FROM rfm_base\
+),\
+rfm_labeled AS (\
+  SELECT *,\
+    (recency_score + frequency_score + monetary_score) AS rfm_total,\
+    CASE\
+      WHEN (recency_score + frequency_score + monetary_score) BETWEEN 13 AND 15 THEN 'Champions'\
+      WHEN (recency_score + frequency_score + monetary_score) BETWEEN 10 AND 12 THEN 'Loyal Customers'\
+      WHEN (recency_score + frequency_score + monetary_score) BETWEEN 7 AND 9 THEN 'Potential'\
+      WHEN (recency_score + frequency_score + monetary_score) BETWEEN 4 AND 6 THEN 'At Risk'\
+      ELSE 'Churned'\
+    END AS segment\
+  FROM rfm_scores\
+)\
+SELECT *\
+FROM rfm_labeled\
+ORDER BY rfm_total DESC;\
+\
+\
+SELECT \
+  region,\
+  ROUND(SUM(sales), 2) AS total_sales,\
+  ROUND(SUM(profit), 2) AS total_profit\
+FROM global_superstore\
+GROUP BY region\
+ORDER BY total_profit DESC;\
+\
+SELECT \
+  category,\
+  sub_category,\
+  ROUND(SUM(sales), 2) AS total_sales,\
+  ROUND(SUM(profit), 2) AS total_profit\
+FROM global_superstore\
+GROUP BY category, sub_category\
+ORDER BY total_profit DESC;\
+}

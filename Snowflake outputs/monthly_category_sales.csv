@@ -1,0 +1,145 @@
+MONTH,CATEGORY,TOTAL_SALES
+2011-01,Furniture,34463.75
+2011-01,Office Supplies,33526.73
+2011-01,Technology,30908.01
+2011-02,Technology,38233.95
+2011-02,Furniture,30641.2
+2011-02,Office Supplies,22277
+2011-03,Technology,66554.09
+2011-03,Furniture,44780.14
+2011-03,Office Supplies,34395.13
+2011-04,Office Supplies,46604.12
+2011-04,Technology,38966.78
+2011-04,Furniture,31344.87
+2011-05,Technology,55657.58
+2011-05,Office Supplies,46109.59
+2011-05,Furniture,44980.67
+2011-06,Furniture,78368.85
+2011-06,Technology,71688.79
+2011-06,Office Supplies,65149.73
+2011-07,Technology,42766.59
+2011-07,Office Supplies,41358.64
+2011-07,Furniture,31385.19
+2011-08,Technology,80899.82
+2011-08,Furniture,69984.46
+2011-08,Office Supplies,56697.21
+2011-09,Office Supplies,102938.76
+2011-09,Furniture,95029.12
+2011-09,Technology,92246.58
+2011-10,Furniture,77411.7
+2011-10,Technology,73424.74
+2011-10,Office Supplies,48234.82
+2011-11,Technology,113412.18
+2011-11,Office Supplies,94326.99
+2011-11,Furniture,90757.37
+2011-12,Furniture,127045.06
+2011-12,Technology,122892.95
+2011-12,Office Supplies,83987.73
+2012-01,Office Supplies,47071.07
+2012-01,Technology,46210.79
+2012-01,Furniture,42498.86
+2012-02,Technology,38121.93
+2012-02,Furniture,37897.83
+2012-02,Office Supplies,24490.46
+2012-03,Furniture,55082.33
+2012-03,Technology,54273.16
+2012-03,Office Supplies,53721.28
+2012-04,Technology,62464.34
+2012-04,Furniture,54701.87
+2012-04,Office Supplies,43886.06
+2012-05,Technology,84362.53
+2012-05,Furniture,62961.32
+2012-05,Office Supplies,61041.05
+2012-06,Technology,98849.13
+2012-06,Furniture,81480.74
+2012-06,Office Supplies,75845.83
+2012-07,Technology,57398.98
+2012-07,Office Supplies,46346.41
+2012-07,Furniture,41491.39
+2012-08,Technology,121238.73
+2012-08,Office Supplies,97259.77
+2012-08,Furniture,84644.44
+2012-09,Technology,114379.41
+2012-09,Furniture,96165.58
+2012-09,Office Supplies,78844.17
+2012-10,Technology,108732.8
+2012-10,Furniture,84823.92
+2012-10,Office Supplies,59383.13
+2012-11,Furniture,120308.31
+2012-11,Technology,103213.74
+2012-11,Office Supplies,99990.37
+2012-12,Technology,134195.98
+2012-12,Office Supplies,107215.03
+2012-12,Furniture,96845.96
+2013-01,Furniture,81804.6
+2013-01,Office Supplies,64983.66
+2013-01,Technology,52397.64
+2013-02,Furniture,59117.94
+2013-02,Technology,56568.83
+2013-02,Office Supplies,51552.88
+2013-03,Technology,71262.86
+2013-03,Furniture,65323.29
+2013-03,Office Supplies,62007.87
+2013-04,Technology,67468.63
+2013-04,Office Supplies,55765.71
+2013-04,Furniture,54586.98
+2013-05,Technology,111371.65
+2013-05,Office Supplies,74692.38
+2013-05,Furniture,74434.53
+2013-06,Technology,169780.46
+2013-06,Furniture,115262.23
+2013-06,Office Supplies,111476.92
+2013-07,Technology,87783.99
+2013-07,Furniture,71863.45
+2013-07,Office Supplies,70281.51
+2013-08,Technology,121043.07
+2013-08,Furniture,112305.51
+2013-08,Office Supplies,93140.22
+2013-09,Technology,138156.89
+2013-09,Furniture,127700.69
+2013-09,Office Supplies,110761.67
+2013-10,Technology,126695.26
+2013-10,Furniture,89318.56
+2013-10,Office Supplies,77392.82
+2013-11,Technology,140450.86
+2013-11,Furniture,122802.72
+2013-11,Office Supplies,110735.78
+2013-12,Furniture,143203.05
+2013-12,Technology,134325.12
+2013-12,Office Supplies,127926.21
+2014-01,Technology,94815.17
+2014-01,Office Supplies,76653.91
+2014-01,Furniture,69799.47
+2014-02,Technology,71950.5
+2014-02,Furniture,57702.83
+2014-02,Office Supplies,55184.02
+2014-03,Technology,95819.12
+2014-03,Furniture,89705.38
+2014-03,Office Supplies,77576.27
+2014-04,Technology,90849.17
+2014-04,Office Supplies,81346.36
+2014-04,Furniture,70576.33
+2014-05,Furniture,98312.1
+2014-05,Office Supplies,97974.89
+2014-05,Technology,92114.05
+2014-06,Technology,145350.97
+2014-06,Furniture,136154.28
+2014-06,Office Supplies,120308.81
+2014-07,Technology,99389.99
+2014-07,Furniture,82368.19
+2014-07,Office Supplies,76947.5
+2014-08,Technology,174905.33
+2014-08,Office Supplies,155430.77
+2014-08,Furniture,126283.84
+2014-09,Furniture,175776.64
+2014-09,Technology,170994.07
+2014-09,Office Supplies,134386.53
+2014-10,Technology,176294.52
+2014-10,Furniture,130701.18
+2014-10,Office Supplies,115770.93
+2014-11,Technology,222579.04
+2014-11,Furniture,168848.67
+2014-11,Office Supplies,163851.32
+2014-12,Technology,181096.73
+2014-12,Furniture,171826.78
+2014-12,Office Supplies,150220.19
