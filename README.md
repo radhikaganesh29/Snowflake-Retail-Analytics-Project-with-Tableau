@@ -59,4 +59,23 @@ Dashboards created using 6 Snowflake-exported CSVs.
 
 <img width="807" alt="Screenshot 2025-05-01 at 4 23 25 PM" src="https://github.com/user-attachments/assets/aef08766-5ded-4a9d-b1b7-e20cd2aa0ae7" />
 
+## Key Insights
+
+### 1. Customer Behavior (RFM Analysis)
+- **Champions** made up over 25% of total high-value orders.
+- A significant cluster of customers with high recency scores (4–5) and low frequency scores (1–2) shows that several customers made large purchases long ago but haven’t returned, indicating high-value reactivation opportunities.
+- Over **100 customers** were classified as **"Churned"**, suggesting possible revenue leakage.
+
+### 2. Product Profitability
+- Products in the **Furniture > Tables** category generated **significant losses** (over -$60K), despite decent sales volumes.
+- **Technology products** (especially Copiers and Phones) accounted for the highest profits — over **$475K combined**.
+- Some sub-categories like **Envelopes** and **Labels** had high volume but low profit, ideal candidates for price optimization.
+
+### 3. Regional Insights
+- The **Central** and **North** regions were the most profitable, contributing over **$500K in combined profit**.
+- **Canada** and **Southeast Asia** performed the worst in terms of profit, with values below **$20K** — potentially overserved or misaligned in pricing.
+
+### 4. Trend Analysis
+- Despite consistent sales growth, **profit margins remained flat**, implying rising costs or over-discounting.
+
 
